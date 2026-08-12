@@ -1,0 +1,566 @@
+﻿Question_ID,Question_Text,Answer_ID,Answer_Text
+Q1,1) What is your Gender?,1,Female
+Q1,1) What is your Gender?,2,Male
+Q2,2) What is your Age?,1,17-25
+Q2,2) What is your Age?,2,35-40
+Q2,2) What is your Age?,3,26-34
+Q2,2) What is your Age?,4,40+
+Q3,3) Education Level,1,"PG(Master's, Ph.D.)"
+Q3,3) Education Level,2,"UG(Intermediate, BA, B.Sc.)"
+Q4,4) Field of Study,1,Computer Science
+Q4,4) Field of Study,2,Business Administration
+Q4,4) Field of Study,3,Education
+Q4,4) Field of Study,4,Math
+Q4,4) Field of Study,5,Physics
+Q4,4) Field of Study,6,Languages
+Q4,4) Field of Study,7,Chemistry
+Q4,4) Field of Study,8,Chemsitry
+Q4,4) Field of Study,9,Biology
+Q4,4) Field of Study,10,Management
+Q4,4) Field of Study,11,Commerce
+Q4,4) Field of Study,12,Botany
+Q4,4) Field of Study,13,Social Science
+Q4,4) Field of Study,14,Islamic studies
+Q4,4) Field of Study,15,Medicine or public health
+Q5,5) University Name,1,"Veer Kunwar Singh University,Ara"
+Q5,5) University Name,2,"Patna University, Patna"
+Q5,5) University Name,3,"Magadh University, Bodh Gaya"
+Q5,5) University Name,4,"IGNOU, India"
+Q5,5) University Name,5,"Aryabhatta Knowledge University, Patna"
+Q5,5) University Name,6,"B. R. Ambedkar Bihar University, Muzzafarpur"
+Q5,5) University Name,7,"Jai Prakash University, Chhapra"
+Q5,5) University Name,8,Northern Borders
+Q6,"6) How often do you use the Internet and Internet-related services? (E.g. Email, WhatsApp, News, YouTube",1,Frequently throughout the day
+Q6,"6) How often do you use the Internet and Internet-related services? (E.g. Email, WhatsApp, News, YouTube",2,Once or twice a day
+Q6,"6) How often do you use the Internet and Internet-related services? (E.g. Email, WhatsApp, News, YouTube",3,"Less frequently (once a week, once month)"
+Q7,7) What are your Internet/ Digital devices skills level?,1,"Beginner/Basic (e.g. start computer and phone, go to specified web page. Use Word. Use social media)"
+Q7,7) What are your Internet/ Digital devices skills level?,2,"Intermediate (e.g. able to install and run special software, make modifications to the settings of the computer, have a good understanding of hardware and software)"
+Q7,7) What are your Internet/ Digital devices skills level?,3,"Expert (e.g. computer Management, database administration, network Management)"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",1,"Desktop, Laptop, Smartphone"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",2,Smartphone
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",3,Tablet
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",4,"Laptop, Smartphone"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",5,Laptop
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",6,"Laptop, Smartphone, Tablet"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",7,"Desktop, Laptop, Smartphone, Tablet"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",8,"Desktop, Smartphone"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",9,"Smartphone, Tablet"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",10,Desktop
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",11,"Desktop, Smartphone, Tablet"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",12,"Laptop, Tablet"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",13,"Desktop, Laptop, Smartphone, Tablet, AppleTV"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",14,"Laptop, Smartphone, Smartwatch"
+Q8,"8) Of the following, which digital devices do you use regularly? Tick all that apply",15,"Desktop, Laptop"
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,1,Mobile/cellular phone network (e.g. 3G/4G)
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,2,"Private Wi-Fi (e.g. in your home), Mobile/cellular phone network (e.g. 3G/4G)"
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,3,"Public Wi-Fi (e.g. in coffee shop), Private Wi-Fi (e.g. in your home), Mobile/cellular phone network (e.g. 3G/4G)"
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,4,"Public Wi-Fi (e.g. in coffee shop), Private Wi-Fi (e.g. in your home)"
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,5,Private Wi-Fi (e.g. in your home)
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,6,"Private Wi-Fi (e.g. in your home), Mobile/cellular phone network (e.g. 3G/4G), Broadband (wired)"
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,7,"Public Wi-Fi (e.g. in coffee shop), Mobile/cellular phone network (e.g. 3G/4G)"
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,8,Public Wi-Fi (e.g. in coffee shop)
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,9,"Public Wi-Fi (e.g. in coffee shop), Private Wi-Fi (e.g. in your home), Mobile/cellular phone network (e.g. 3G/4G), Broadband (wired)"
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,10,I don't know
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,11,"Public Wi-Fi (e.g. in coffee shop), Mobile/cellular phone network (e.g. 3G/4G), Broadband (wired)"
+Q9,9) What type of connectivity services do you use in your daily activities? Tick all that apply,12,"Mobile/cellular phone network (e.g. 3G/4G), Broadband (wired)"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,1,"Education, Social networks, Online services, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,2,"Social networks, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,3,"Professional reasons, Education, Social networks, Online services, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,4,"Education, Social networks, Online services, Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,5,"Professional reasons, Education, Social networks, Entertainment"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,6,"Education, Social networks, Entertainment"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,7,Social networks
+Q10,10) For what purposes do you use the Internet? Tick all that apply,8,"Professional reasons, Education, Online services, Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,9,Education
+Q10,10) For what purposes do you use the Internet? Tick all that apply,10,"Professional reasons, Education, Social networks, Online services, Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,11,"Education, Social networks, Online services"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,12,"Social networks, Online services, Entertainment"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,13,"Education, Online services"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,14,"Social networks, Online services,Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,15,"Social networks, Online services,Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,16,"Professional reasons, Education, Social networks, Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,17,Online services
+Q10,10) For what purposes do you use the Internet? Tick all that apply,18,"Social networks, Online services, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,19,"Education, Social networks, Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,20,"Professional reasons, Education, Social networks, Online services, Entertainment"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,21,"Professional reasons, Education, Social networks, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,22,"Education, Social networks"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,23,"Education, Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,24,Communication
+Q10,10) For what purposes do you use the Internet? Tick all that apply,25,"Professional reasons, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,26,Entertainment
+Q10,10) For what purposes do you use the Internet? Tick all that apply,27,"Professional reasons, Education, Online services, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,28,"Education, Online services, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,29,"Education, Social networks, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,30,Professional reasons
+Q10,10) For what purposes do you use the Internet? Tick all that apply,31,"Social networks, Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,32,"Education, Entertainment"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,33,"Professional reasons, Education, Online services"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,34,"Education, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,35,"Social networks, Online services, Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,36,"Professional reasons, Social networks, Online services, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,37,"Education, Online services, Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,38,"Professional reasons, Education, Social networks, Online services"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,39,"Social networks, Online services"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,40,"Education, Social networks, Online services, Entertainment"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,41,"Social networks, Entertainment"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,42,"Education, Online services, Entertainment"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,43,"Professional reasons, Education"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,44,"Professional reasons, Social networks, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,45,"Online services, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,46,"Professional reasons, Online services"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,47,"Professional reasons, Social networks"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,48,"Entertainment, Communication"
+Q10,10) For what purposes do you use the Internet? Tick all that apply,49,"Professional reasons, Social networks, Online services, Entertainment"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,1,Windows 10
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,2,mac OS
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,3,"Windows 10, Windows 8"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,4,Windows 7
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,5,Windows 8
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,6,"Windows 10, mac OS"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,7,"Windows 10, Windows 7"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,8,I don't know
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,9,"Windows 10, Windows 7, Linux"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,10,"Windows 7, I don't know"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,11,"Windows 10, Linux"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,12,Old Windows version
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,13,"Windows 8, I don't know"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,14,"Windows 10, Windows 8, mac OS"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,15,"mac OS, Linux"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,16,"Windows 7, mac OS"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,17,"Windows 10, Windows 7, Linux, Kali"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,18,"Windows 8, Linux"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,19,"Windows 8, mac OS"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,20,"Windows 10, mac OS, Linux"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,21,"Windows 8, Windows 7"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,22,"Windows 7, Linux"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,23,"Windows 10, I don't know"
+Q11,11) - A- What operating systems do you use on your desktop/laptop? Tick all that apply.,24,Linux
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,1,IOS
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,2,"IOS, Android"
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,3,Android
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,4,Windows
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,5,I don't know
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,6,"Blackberry, IOS, Android, Windows"
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,7,"IOS, Windows"
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,8,"IOS, Android, Windows"
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,9,"Android, Windows"
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,10,"Blackberry, Android, Windows"
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,11,"Android, Kali"
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,12,Blackberry
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,13,"Blackberry, Android"
+Q12,B- What operating systems do you use on your Smartphone/tablet? Tick all that apply,14,"Blackberry, IOS, Android"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",1,Anti-virus
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",2,"Anti-virus, Authentication (e.g. password, PIN)"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",3,"Anti-virus, Authentication (e.g. password, PIN) , Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",4,"Anti-virus, Authentication (e.g. password, PIN) , Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",5,"Anti-virus, Firewall, Authentication (e.g. password, PIN)"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",6,"Authentication (e.g. password, PIN) ,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",7,"Firewall, Authentication (e.g. password, PIN) , Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",8,"Firewall, Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",9,"Anti-virus, Firewall, Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",10,"Anti-virus, Firewall, Authentication (e.g. password, PIN) , Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",11,"Anti-virus, Firewall, Authentication (e.g. password, PIN) , Encryption, Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",12,"Authentication (e.g. password, PIN)"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",13,"Authentication (e.g. password, PIN) , Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",14,"Anti-virus, Firewall, Authentication (e.g. password, PIN) , Encryption, Software update"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",15,"Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",16,Software update
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",17,"Anti-virus, Firewall"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",18,"Anti-virus, Firewall, Authentication (e.g. password, PIN) ,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",19,"Anti-virus, Firewall, Authentication (e.g. password, PIN) , Software update"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",20,"Anti-virus, Software update"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",21,"Authentication (e.g. password, PIN) , Software update"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",22,"Anti-virus, Authentication (e.g. password, PIN) , Software update"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",23,Backup
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",24,"Authentication (e.g. password, PIN) , Encryption, Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",25,"Anti-virus, Firewall,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",26,"Anti-virus, Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",27,"Firewall, Authentication (e.g. password, PIN)"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",28,Firewall
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",29,"Anti-virus, Firewall, Software update"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",30,"Anti-virus,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",31,"Firewall,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",32,"Anti-virus, Encryption, Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",33,"Anti-virus, Firewall, Authentication (e.g. password, PIN) , Encryption,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",34,"Firewall, Authentication (e.g. password, PIN) , Software update"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",35,"Firewall, Authentication (e.g. password, PIN) , Encryption, Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",36,"Anti-virus, Firewall, Authentication (e.g. password, PIN) , Software update, Cloud storage.e.g: box, Dropbox"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",37,"Anti-virus, Firewall, Encryption, Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",38,"Anti-virus, Authentication (e.g. password, PIN) , Encryption,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",39,"Anti-virus, Firewall, Encryption, Software update"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",40,"Firewall, Authentication (e.g. password, PIN) ,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",41,"Anti-virus, Firewall, Encryption,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",42,"Firewall, Software update"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",43,"Anti-virus, Encryption"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",44,"Anti-virus, Authentication (e.g. password, PIN) , Encryption"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",45,"Encryption,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",46,"Anti-virus, Authentication (e.g. password, PIN) , Encryption, Software update,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",47,Encryption
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",48,"Authentication (e.g. password, PIN) , Encryption,Backup"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",49,"Anti-virus, Firewall, Encryption"
+Q13,"12) Some of the most commonly used security tools and applications for laptops, tablets, mobiles, etc. are given below. Select which of these you have used on your digital devices. Tick all that apply.",50,"Authentication (e.g. password, PIN) , Encryption, Software update"
+Q14,13) How secure do you feel your digital devices (e.g. computers and phones) are?,1,Neutral
+Q14,13) How secure do you feel your digital devices (e.g. computers and phones) are?,2,Somewhat secure
+Q14,13) How secure do you feel your digital devices (e.g. computers and phones) are?,3,Somewhat insecure
+Q14,13) How secure do you feel your digital devices (e.g. computers and phones) are?,4,Very secure
+Q14,13) How secure do you feel your digital devices (e.g. computers and phones) are?,5,Not sure (difficult to determine)
+Q14,13) How secure do you feel your digital devices (e.g. computers and phones) are?,6,Not secure at all
+Q15,14) Some security practices are described below. Please choose your common reaction for each practice: [I check the legitimacy of a website before accessing it .],1,Always
+Q15,14) Some security practices are described below. Please choose your common reaction for each practice: [I check the legitimacy of a website before accessing it .],2,Never
+Q15,14) Some security practices are described below. Please choose your common reaction for each practice: [I check the legitimacy of a website before accessing it .],3,Often
+Q15,14) Some security practices are described below. Please choose your common reaction for each practice: [I check the legitimacy of a website before accessing it .],4,Sometimes
+Q15,14) Some security practices are described below. Please choose your common reaction for each practice: [I check the legitimacy of a website before accessing it .],5,Seldom
+Q16,"14) Some security practices are described below. Please choose your common reaction for each practice: [I create a password that contains my personal information (e.g. last name, date of birth)]",1,Never
+Q16,"14) Some security practices are described below. Please choose your common reaction for each practice: [I create a password that contains my personal information (e.g. last name, date of birth)]",2,Always
+Q16,"14) Some security practices are described below. Please choose your common reaction for each practice: [I create a password that contains my personal information (e.g. last name, date of birth)]",3,Often
+Q16,"14) Some security practices are described below. Please choose your common reaction for each practice: [I create a password that contains my personal information (e.g. last name, date of birth)]",4,Seldom
+Q16,"14) Some security practices are described below. Please choose your common reaction for each practice: [I create a password that contains my personal information (e.g. last name, date of birth)]",5,Sometimes
+Q17,"14)Some security practices are described below. Please choose your common reaction for each practice: [I am aware of the danger when clicking on banners, advertisements or pop-up screens that appear when surfing the Internet]",1,Always
+Q17,"14)Some security practices are described below. Please choose your common reaction for each practice: [I am aware of the danger when clicking on banners, advertisements or pop-up screens that appear when surfing the Internet]",2,Often
+Q17,"14)Some security practices are described below. Please choose your common reaction for each practice: [I am aware of the danger when clicking on banners, advertisements or pop-up screens that appear when surfing the Internet]",3,Sometimes
+Q17,"14)Some security practices are described below. Please choose your common reaction for each practice: [I am aware of the danger when clicking on banners, advertisements or pop-up screens that appear when surfing the Internet]",4,Seldom
+Q17,"14)Some security practices are described below. Please choose your common reaction for each practice: [I am aware of the danger when clicking on banners, advertisements or pop-up screens that appear when surfing the Internet]",5,Never
+Q18,14) Some security practices are described below. Please choose your common reaction for each practice : [I give due attention to privacy settings on my social media account(s) (e.g. Facebook)],1,Always
+Q18,14) Some security practices are described below. Please choose your common reaction for each practice : [I give due attention to privacy settings on my social media account(s) (e.g. Facebook)],2,Seldom
+Q18,14) Some security practices are described below. Please choose your common reaction for each practice : [I give due attention to privacy settings on my social media account(s) (e.g. Facebook)],3,Often
+Q18,14) Some security practices are described below. Please choose your common reaction for each practice : [I give due attention to privacy settings on my social media account(s) (e.g. Facebook)],4,Sometimes
+Q18,14) Some security practices are described below. Please choose your common reaction for each practice : [I give due attention to privacy settings on my social media account(s) (e.g. Facebook)],5,Never
+Q19,14) Some security practices are described below. Please choose your common reaction for each practice: [Social media services protect my personal information],1,Sometimes
+Q19,14) Some security practices are described below. Please choose your common reaction for each practice: [Social media services protect my personal information],2,Often
+Q19,14) Some security practices are described below. Please choose your common reaction for each practice: [Social media services protect my personal information],3,Never
+Q19,14) Some security practices are described below. Please choose your common reaction for each practice: [Social media services protect my personal information],4,Always
+Q19,14) Some security practices are described below. Please choose your common reaction for each practice: [Social media services protect my personal information],5,Seldom
+Q20,14) Some security practices are described below. Please choose your common reaction for each practice: I read the terms and conditions carefully before using any website,1,Often
+Q20,14) Some security practices are described below. Please choose your common reaction for each practice: I read the terms and conditions carefully before using any website,2,Sometimes
+Q20,14) Some security practices are described below. Please choose your common reaction for each practice: I read the terms and conditions carefully before using any website,3,Never
+Q20,14) Some security practices are described below. Please choose your common reaction for each practice: I read the terms and conditions carefully before using any website,4,Seldom
+Q20,14) Some security practices are described below. Please choose your common reaction for each practice: I read the terms and conditions carefully before using any website,5,Always
+Q21,14) Some security practices are described below. Please choose your common reaction for each practice: [I change the passwords of important accounts (such as online banking) frequently ],1,Often
+Q21,14) Some security practices are described below. Please choose your common reaction for each practice: [I change the passwords of important accounts (such as online banking) frequently ],2,Never
+Q21,14) Some security practices are described below. Please choose your common reaction for each practice: [I change the passwords of important accounts (such as online banking) frequently ],3,Always
+Q21,14) Some security practices are described below. Please choose your common reaction for each practice: [I change the passwords of important accounts (such as online banking) frequently ],4,Seldom
+Q21,14) Some security practices are described below. Please choose your common reaction for each practice: [I change the passwords of important accounts (such as online banking) frequently ],5,Sometimes
+Q22,14Some security practices are described below. Please choose your common reaction for each practice: [I feel safe when using public Wi-Fi],1,Never
+Q22,14Some security practices are described below. Please choose your common reaction for each practice: [I feel safe when using public Wi-Fi],2,Seldom
+Q22,14Some security practices are described below. Please choose your common reaction for each practice: [I feel safe when using public Wi-Fi],3,Sometimes
+Q22,14Some security practices are described below. Please choose your common reaction for each practice: [I feel safe when using public Wi-Fi],4,Often
+Q22,14Some security practices are described below. Please choose your common reaction for each practice: [I feel safe when using public Wi-Fi],5,Always
+Q23,"14) Some security practices are described below. Please choose your common reaction for each practice: [I feel my digital devices (computer, smartphones) has no value to hackers, they do not target me]",1,Sometimes
+Q23,"14) Some security practices are described below. Please choose your common reaction for each practice: [I feel my digital devices (computer, smartphones) has no value to hackers, they do not target me]",2,Seldom
+Q23,"14) Some security practices are described below. Please choose your common reaction for each practice: [I feel my digital devices (computer, smartphones) has no value to hackers, they do not target me]",3,Always
+Q23,"14) Some security practices are described below. Please choose your common reaction for each practice: [I feel my digital devices (computer, smartphones) has no value to hackers, they do not target me]",4,Often
+Q23,"14) Some security practices are described below. Please choose your common reaction for each practice: [I feel my digital devices (computer, smartphones) has no value to hackers, they do not target me]",5,Never
+Q24,14) Some security practices are described below. Please choose your common reaction for each practice: [I regularly install software updates ],1,Always
+Q24,14) Some security practices are described below. Please choose your common reaction for each practice: [I regularly install software updates ],2,Never
+Q24,14) Some security practices are described below. Please choose your common reaction for each practice: [I regularly install software updates ],3,Often
+Q24,14) Some security practices are described below. Please choose your common reaction for each practice: [I regularly install software updates ],4,Sometimes
+Q24,14) Some security practices are described below. Please choose your common reaction for each practice: [I regularly install software updates ],5,Seldom
+Q25,14) Some security practices are described below. Please choose your common reaction for each practice: [I am careful about clicking on links in an email or social media post],1,Always
+Q25,14) Some security practices are described below. Please choose your common reaction for each practice: [I am careful about clicking on links in an email or social media post],2,Often
+Q25,14) Some security practices are described below. Please choose your common reaction for each practice: [I am careful about clicking on links in an email or social media post],3,Sometimes
+Q25,14) Some security practices are described below. Please choose your common reaction for each practice: [I am careful about clicking on links in an email or social media post],4,Seldom
+Q25,14) Some security practices are described below. Please choose your common reaction for each practice: [I am careful about clicking on links in an email or social media post],5,Never
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,1,"Desktop, Laptop"
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,2,Desktop
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,3,Laptop
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,4,"Laptop, Smartphone"
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,5,None of the above
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,6,Smartphone
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,7,"Laptop, Tablet"
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,8,"Desktop, Laptop, Smartphone,Tablet"
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,9,"Desktop, Smartphone"
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,10,"Desktop, Laptop, Smartphone"
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,11,"Laptop, Smartphone,Tablet"
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,12,I don't know
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,13,"Smartphone,Tablet"
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,14,Tablet
+Q26,15) What digital devices do you have Internet security on (e.g. anti-virus)?,15,"Desktop, Laptop,Tablet"
+Q27,"16) If you use Internet security (e.g. anti-virus), is this kept up to date in terms of threat filters and signatures?",1,"Yes, I believe it is automatically updated"
+Q27,"16) If you use Internet security (e.g. anti-virus), is this kept up to date in terms of threat filters and signatures?",2,"Yes, I manually updated"
+Q27,"16) If you use Internet security (e.g. anti-virus), is this kept up to date in terms of threat filters and signatures?",3,I don't know
+Q27,"16) If you use Internet security (e.g. anti-virus), is this kept up to date in terms of threat filters and signatures?",4,"No, I think it is automatically updated"
+Q27,"16) If you use Internet security (e.g. anti-virus), is this kept up to date in terms of threat filters and signatures?",5,No
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),1,"Newspapers, magazines, Posters"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),2,"Newspapers, magazines, Posters, Professional activities: conferences, meetings, briefings, etc., Government or professional reports"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),3,I do not feel that I keep myself updated
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),4,"Newspapers, magazines, Posters, Government or professional reports"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),5,Internet service provider ISPs
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),6,Government or professional reports
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),7,"Professional activities: conferences, meetings, briefings, etc."
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),8,Other
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),9,"Professional activities: conferences, meetings, briefings, etc., Internet service provider ISPs, Government or professional reports"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),10,"Internet service provider ISPs, Government or professional reports"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),11,"Newspapers, magazines, Posters, Professional activities: conferences, meetings, briefings, etc."
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),12,"Newspapers, magazines, Posters, Professional activities: conferences, meetings, briefings, etc., Internet service provider ISPs, Government or professional reports"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),13,"Newspapers, magazines, Posters, I do not feel that I keep myself updated"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),14,"Professional activities: conferences, meetings, briefings, etc., Internet service provider ISPs"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),15,"Newspapers, magazines, Posters, Professional activities: conferences, meetings, briefings, etc., Internet service provider ISPs"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),16,"Government or professional reports, I do not feel that I keep myself updated"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),17,"Professional activities: conferences, meetings, briefings, etc., Government or professional reports"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),18,Other- Social Media
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),19,"Newspapers, magazines, Posters, Internet service provider ISPs, Government or professional reports"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),20,"Professional activities: conferences, meetings, briefings, etc., I do not feel that I keep myself updated"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),21,"Newspapers, magazines, Posters, Internet service provider ISPs"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),22,"Newspapers, magazines, Posters, Professional activities: conferences, meetings, briefings, etc., I do not feel that I keep myself updated"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),23,"Professional activities: conferences, meetings, briefings, etc., Government or professional reports, I do not feel that I keep myself updated"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),24,"Internet service provider ISPs, Government or professional reports, I do not feel that I keep myself updated"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),25,"Newspapers, magazines, Posters, Government or professional reports, I do not feel that I keep myself updated"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),26,Other- TV and Radio
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),27,"Internet service provider ISPs, I do not feel that I keep myself updated"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),28,"Newspapers, magazines, Posters, Professional activities: conferences, meetings, briefings, etc., Government or professional reports, I do not feel that I keep myself updated"
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),29,Social Media
+Q28,17) A. How do you keep yourself updated about cyber crime? Tick all that apply (offline Sources),30,Tv programs and you type
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),1,"TV, news, radio, Internet, website, email bulletins, blogs, etc."
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),2,"Internet, website, email bulletins, blogs, etc."
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),3,"TV, news, radio, Internet, website, email bulletins, blogs, etc., Government websites (e.g. CERT)"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),4,"Internet, website, email bulletins, blogs, etc., Government websites (e.g. CERT)"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),5,I do not feel that I keep myself updated
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),6,"TV, news, radio"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),7,Rely on automatic updates
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),8,"Government websites (e.g. CERT),Internet service provider ISPs"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),9,"TV, news, radio, Internet, website, email bulletins, blogs, etc., Government websites (e.g. CERT),Internet service provider ISPs, Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),10,"TV, news, radio,Internet service provider ISPs"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),11,"TV, news, radio, Government websites (e.g. CERT)"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),12,"Internet, website, email bulletins, blogs, etc., Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),13,"Government websites (e.g. CERT),Internet service provider ISPs, Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),14,Government websites (e.g. CERT)
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),15,"Internet service provider ISPs , Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),16,"Internet, website, email bulletins, blogs, etc.,Internet service provider ISPs"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),17,"TV, news, radio, Internet, website, email bulletins, blogs, etc., Government websites (e.g. CERT),Internet service provider ISPs"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),18,"Internet, website, email bulletins, blogs, etc., Government websites (e.g. CERT),Internet service provider ISPs, Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),19,"Internet, website, email bulletins, blogs, etc., I do not feel that I keep myself updated"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),20,"TV, news, radio, Government websites (e.g. CERT),Internet service provider ISPs"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),21,"Rely on automatic updates, I do not feel that I keep myself updated"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),22,"TV, news, radio, Internet, website, email bulletins, blogs, etc., Government websites (e.g. CERT), Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),23,"TV, news, radio, Other- Messages from Communication Company"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),24,"Internet, website, email bulletins, blogs, etc., Government websites (e.g. CERT),Internet service provider ISPs"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),25,"Internet, website, email bulletins, blogs, etc., Government websites (e.g. CERT), Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),26,"TV, news, radio, Internet, website, email bulletins, blogs, etc.,Internet service provider ISPs"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),27,Internet service provider ISPs
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),28,"TV, news, radio, Government websites (e.g. CERT), Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),29,"TV, news, radio, Internet, website, email bulletins, blogs, etc., Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),30,"TV, news, radio, I do not feel that I keep myself updated"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),31,"Government websites (e.g. CERT), Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),32,"Government websites (e.g. CERT),Internet service provider ISPs, I do not feel that I keep myself updated"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),33,"Internet, website, email bulletins, blogs, etc.,Internet service provider ISPs, Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),34,Others: Twitter
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),35,"TV, news, radio, Government websites (e.g. CERT),Internet service provider ISPs, Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),36,"TV, news, radio, Internet, website, email bulletins, blogs, etc., I do not feel that I keep myself updated"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),37,"Internet, website, email bulletins, blogs, etc., Government websites (e.g. CERT),Internet service provider ISPs, I do not feel that I keep myself updated"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),38,"Internet, website, email bulletins, blogs, etc.,"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),39,"TV, news, radio, Internet, website, email bulletins, blogs, etc., Rely on automatic updates, I do not feel that I keep myself updated"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),40,Other- Twitter
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),41,"TV, news, radio, Rely on automatic updates"
+Q29,B. How do you keep yourself updated about cyber crime? Tick all that apply (Online Sources),42,"TV, news, radio, Internet, website, email bulletins, blogs, etc.,Internet service provider ISPs, Rely on automatic updates"
+Q30,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I think one should avoid disclosing personal information online],1,Strongly Agree
+Q30,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I think one should avoid disclosing personal information online],2,Agree
+Q30,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I think one should avoid disclosing personal information online],3,Strongly Disagree
+Q30,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I think one should avoid disclosing personal information online],4,Neutral
+Q30,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I think one should avoid disclosing personal information online],5,Disagree
+Q31,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that the risk of becoming a victim of cyber crime has increased in the past year.],1,Strongly Agree
+Q31,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that the risk of becoming a victim of cyber crime has increased in the past year.],2,Neutral
+Q31,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that the risk of becoming a victim of cyber crime has increased in the past year.],3,Agree
+Q31,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that the risk of becoming a victim of cyber crime has increased in the past year.],4,Disagree
+Q31,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that the risk of becoming a victim of cyber crime has increased in the past year.],5,Strongly Disagree
+Q32,18) What is your opinion of each of the following statements? Select the appropriate response for each.: [I am concerned that my online personal information is not secure enough ],1,Strongly Agree
+Q32,18) What is your opinion of each of the following statements? Select the appropriate response for each.: [I am concerned that my online personal information is not secure enough ],2,Agree
+Q32,18) What is your opinion of each of the following statements? Select the appropriate response for each.: [I am concerned that my online personal information is not secure enough ],3,Strongly Disagree
+Q32,18) What is your opinion of each of the following statements? Select the appropriate response for each.: [I am concerned that my online personal information is not secure enough ],4,Disagree
+Q32,18) What is your opinion of each of the following statements? Select the appropriate response for each.: [I am concerned that my online personal information is not secure enough ],5,Neutral
+Q33,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that I am well protected against cyber crime],1,Neutral
+Q33,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that I am well protected against cyber crime],2,Agree
+Q33,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that I am well protected against cyber crime],3,Disagree
+Q33,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that I am well protected against cyber crime],4,Strongly Disagree
+Q33,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel that I am well protected against cyber crime],5,Strongly Agree
+Q34,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I am willing to accept increased Internet surveillance from the government if it can enhance Internet security ],1,Strongly Agree
+Q34,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I am willing to accept increased Internet surveillance from the government if it can enhance Internet security ],2,Agree
+Q34,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I am willing to accept increased Internet surveillance from the government if it can enhance Internet security ],3,Neutral
+Q34,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I am willing to accept increased Internet surveillance from the government if it can enhance Internet security ],4,Strongly Disagree
+Q34,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I am willing to accept increased Internet surveillance from the government if it can enhance Internet security ],5,Disagree
+Q35,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I believe that the laws in effect are effective in managing the cyber crime problem],1,Agree
+Q35,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I believe that the laws in effect are effective in managing the cyber crime problem],2,Strongly Agree
+Q35,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I believe that the laws in effect are effective in managing the cyber crime problem],3,Neutral
+Q35,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I believe that the laws in effect are effective in managing the cyber crime problem],4,Disagree
+Q35,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I believe that the laws in effect are effective in managing the cyber crime problem],5,Strongly Disagree
+Q36,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel informed about the threat of cyber crime],1,Neutral
+Q36,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel informed about the threat of cyber crime],2,Disagree
+Q36,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel informed about the threat of cyber crime],3,Agree
+Q36,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel informed about the threat of cyber crime],4,Strongly Agree
+Q36,18) What is your opinion of each of the following statements? Select the appropriate response for each: [I feel informed about the threat of cyber crime],5,Strongly Disagree
+Q37,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Received phishing emails (e.g. asking for money, personal information or bank account details)]",1,Always
+Q37,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Received phishing emails (e.g. asking for money, personal information or bank account details)]",2,Do not know
+Q37,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Received phishing emails (e.g. asking for money, personal information or bank account details)]",3,Never
+Q37,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Received phishing emails (e.g. asking for money, personal information or bank account details)]",4,Sometimes
+Q38,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Identity theft (somebody stealing your personal data and impersonating you, e.g. tweeting under your name)]",1,Always
+Q38,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Identity theft (somebody stealing your personal data and impersonating you, e.g. tweeting under your name)]",2,Do not know
+Q38,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Identity theft (somebody stealing your personal data and impersonating you, e.g. tweeting under your name)]",3,Never
+Q38,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Identity theft (somebody stealing your personal data and impersonating you, e.g. tweeting under your name)]",4,Sometimes
+Q39,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Malware (e.g. virus) infection of a device],1,Always
+Q39,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Malware (e.g. virus) infection of a device],2,Do not know
+Q39,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Malware (e.g. virus) infection of a device],3,Never
+Q39,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Malware (e.g. virus) infection of a device],4,Sometimes
+Q40,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Being unable to access online services (e.g. banking services) because of cyber attacks],1,Do not know
+Q40,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Being unable to access online services (e.g. banking services) because of cyber attacks],2,Sometimes
+Q40,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Being unable to access online services (e.g. banking services) because of cyber attacks],3,Never
+Q40,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Being unable to access online services (e.g. banking services) because of cyber attacks],4,Always
+Q41,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Accidentally encountering material that promotes hatred or religious extremism],1,Never
+Q41,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Accidentally encountering material that promotes hatred or religious extremism],2,Do not know
+Q41,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Accidentally encountering material that promotes hatred or religious extremism],3,Sometimes
+Q41,19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Accidentally encountering material that promotes hatred or religious extremism],4,Always
+Q42,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Online extortion (a demand for money to avert or stop extortion, or to avert scandal)]",1,Never
+Q42,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Online extortion (a demand for money to avert or stop extortion, or to avert scandal)]",2,Do not know
+Q42,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Online extortion (a demand for money to avert or stop extortion, or to avert scandal)]",3,Always
+Q42,"19) There are several activities that constitute cyber crimes. How often have you experienced or been victim of the following situations? Select the appropriate response for each: [Online extortion (a demand for money to avert or stop extortion, or to avert scandal)]",4,Sometimes
+Q43,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each [I am concerned about identity theft (somebody stealing your personal data and impersonating you, e.g. tweeting under your name)]",1,Always
+Q43,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each [I am concerned about identity theft (somebody stealing your personal data and impersonating you, e.g. tweeting under your name)]",2,Never
+Q43,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each [I am concerned about identity theft (somebody stealing your personal data and impersonating you, e.g. tweeting under your name)]",3,Somtimes
+Q43,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each [I am concerned about identity theft (somebody stealing your personal data and impersonating you, e.g. tweeting under your name)]",4,Do not know
+Q44,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am not concerned about accidentally encountering child pornography online],1,Sometimes
+Q44,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am not concerned about accidentally encountering child pornography online],2,Always
+Q44,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am not concerned about accidentally encountering child pornography online],3,Do not know
+Q44,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am not concerned about accidentally encountering child pornography online],4,Never
+Q45,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about receiving phishing emails (e.g. asking for money, personal information or bank account details]",1,Always
+Q45,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about receiving phishing emails (e.g. asking for money, personal information or bank account details]",2,Never
+Q45,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about receiving phishing emails (e.g. asking for money, personal information or bank account details]",3,Sometimes
+Q45,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about receiving phishing emails (e.g. asking for money, personal information or bank account details]",4,Do not know
+Q46,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about not being able to access online services (e.g. banking services) because of cyber attacks],1,Always
+Q46,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about not being able to access online services (e.g. banking services) because of cyber attacks],2,Never
+Q46,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about not being able to access online services (e.g. banking services) because of cyber attacks],3,Sometimes
+Q46,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about not being able to access online services (e.g. banking services) because of cyber attacks],4,Do not know
+Q47,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about accidentally encountering material that promotes hatred or religious extremism],1,Always
+Q47,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about accidentally encountering material that promotes hatred or religious extremism],2,Never
+Q47,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about accidentally encountering material that promotes hatred or religious extremism],3,Sometimes
+Q47,20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [I am concerned about accidentally encountering material that promotes hatred or religious extremism],4,Do not know
+Q48,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [Online extortion (a demand for money to avert or stop extortion, or to avert scandal)]",1,Always
+Q48,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [Online extortion (a demand for money to avert or stop extortion, or to avert scandal)]",2,Never
+Q48,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [Online extortion (a demand for money to avert or stop extortion, or to avert scandal)]",3,Sometimes
+Q48,"20) Some of the most common cyber crimes are presented below. What is your opinion of each of the following statements? Select the appropriate response for each: [Online extortion (a demand for money to avert or stop extortion, or to avert scandal)]",4,Do not know
+Q49,"Other, please specify",1,Be aware
+Q49,"Other, please specify",2,Nothing
+Q49,"Other, please specify",3,Facing phinshing emails espacilly inside the country
+Q49,"Other, please specify",4,Not clear
+Q49,"Other, please specify",5,Strict law
+Q49,"Other, please specify",6,Aware from distribting kids and family's photos
+Q49,"Other, please specify",7,Neutral
+Q49,"Other, please specify",8,Found in twitter and email
+Q50,21) What do you feel about the threat of cyber crimes in the future?,1,They will become a more serious issue in the future
+Q50,21) What do you feel about the threat of cyber crimes in the future?,2,Don't know
+Q50,21) What do you feel about the threat of cyber crimes in the future?,3,The threat will vanish eventually
+Q50,21) What do you feel about the threat of cyber crimes in the future?,4,No significant change
+Q51,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The government]",1,Strongly Agree
+Q51,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The government]",2,Agree
+Q51,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The government]",3,Neutral
+Q51,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The government]",4,Disagree
+Q51,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The government]",5,Strongly Disagree
+Q52,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The media]",1,Strongly Agree
+Q52,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The media]",2,Agree
+Q52,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The media]",3,Neutral
+Q52,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The media]",4,Disagree
+Q52,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [The media]",5,Strongly Disagree
+Q53,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Those offering online/Internet-based services (e.g. banks, online retailers, telecommunication companies, etc.)]",1,Strongly Agree
+Q53,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Those offering online/Internet-based services (e.g. banks, online retailers, telecommunication companies, etc.)]",2,Agree
+Q53,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Those offering online/Internet-based services (e.g. banks, online retailers, telecommunication companies, etc.)]",3,Neutral
+Q53,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Those offering online/Internet-based services (e.g. banks, online retailers, telecommunication companies, etc.)]",4,Disagree
+Q53,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Those offering online/Internet-based services (e.g. banks, online retailers, telecommunication companies, etc.)]",5,Strongly Disagree
+Q54,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [User itself]",1,Strongly Agree
+Q54,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [User itself]",2,Agree
+Q54,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [User itself]",3,Neutral
+Q54,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [User itself]",4,Strongly Disagree
+Q54,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [User itself]",5,Disagree
+Q55,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Education system]",1,Strongly Agree
+Q55,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Education system]",2,Agree
+Q55,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Education system]",3,Disagree
+Q55,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Education system]",4,Neutral
+Q55,"22) Considering each of the following parties, please rate the extent to which you believe they are responsible for raising awareness of cyber crime: [Education system]",5,Strongly Disagree
+Q56,"23) What is the government's responsibility in tackling cybercrime, in your perception? Please tick all that apply.",1,No role
+Q56,"23) What is the government's responsibility in tackling cybercrime, in your perception? Please tick all that apply.",2,Monitor organisations misusing consumer information
+Q56,"23) What is the government's responsibility in tackling cybercrime, in your perception? Please tick all that apply.",3,Have stricter laws and punishments for cyber crimes
+Q56,"23) What is the government's responsibility in tackling cybercrime, in your perception? Please tick all that apply.",4,Don’t know
+Q56,"23) What is the government's responsibility in tackling cybercrime, in your perception? Please tick all that apply.",5,Make people aware of cyber crime
+Q56,"23) What is the government's responsibility in tackling cybercrime, in your perception? Please tick all that apply.",6,Work towards providing a global cyber security framework
+Q57,"24) Have you ever been a victim of online fraud? (E.g. lost data or email account, device infected with virus or spyware, stole your picture/s or digital device/s).",1,Yes
+Q57,"24) Have you ever been a victim of online fraud? (E.g. lost data or email account, device infected with virus or spyware, stole your picture/s or digital device/s).",2,No
+Q58,"A. If Yes, When you had been a victim of cyber crime, did you report it?",1,No
+Q58,"A. If Yes, When you had been a victim of cyber crime, did you report it?",2,Yes
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",1,Bank
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",2,Indian eGovernment Portal
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",3,Committee for the Promotion of Virtue and the Prevention of Vice
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",4,Apple store
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",5,Don't remember
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",6,Specilist
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",7,My work
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",8,Technical Support in my job
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",9,"Cyber Crime Portal, India, Police"
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",10,Police
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",11,Facebook
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",12,Microsoft
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",13,"Cyber Crime Portal, India"
+Q59,"If Yes, To whom did you report or contact? (Please check all that apply)",14,"Indian eGovernment Portal , Police"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",1,I think that there is no value of reporting
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",2,"I did not know how to describe or write reports about cyber crime , I think that there is no value of reporting, It was my fault to trust unauthorized person"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",3,I fixed the problem by myself
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",4,"I think that there is no value of reporting, I fixed the problem by myself"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",5,I did not know what the crime was
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",6,"I did not know who to write report about cyber crime, I did not know how to describe or write reports about cyber crime , I think that there is no value of reporting, I fixed the problem by myself, الحادثة قديمة قبل ١٧ عاماً تقريباً"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",7,I did not know how to describe or write reports about cyber crime
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",8,"I did not trust the third party, I fixed the problem by myself"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",9,"I did not know who to write report about cyber crime, I did not trust the third party"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",10,"I did not know who to write report about cyber crime, I did not know what the impact on me will be, I did not know how to describe or write reports about cyber crime , I think that there is no value of reporting, I fixed the problem by myself"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",11,"I did not know what the crime was , I did not know who to write report about cyber crime, I did not know what the impact on me will be, I did not know how to describe or write reports about cyber crime , I feel it is waste of time, I think that there is no value of reporting, I did not trust the third party, I fixed the problem by myself, Not sure"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",12,I feel it is waste of time
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",13,"I did not know who to write report about cyber crime, I did not know what the impact on me will be, I did not know how to describe or write reports about cyber crime , Not sure"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",14,Not sure
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",15,"I did not know who to write report about cyber crime, I did not know what the impact on me will be, I think that there is no value of reporting"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",16,"I did not know who to write report about cyber crime, I fixed the problem by myself"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",17,"I did not know what the impact on me will be, I did not know how to describe or write reports about cyber crime , I feel it is waste of time, I think that there is no value of reporting"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",18,"Not sure, Other-tried to send a message to 330330 but could not"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",19,I did not trust the third party
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",20,"I did not know what the crime was , I did not know who to write report about cyber crime, I fixed the problem by myself"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",21,"I did not know who to write report about cyber crime, I did not know how to describe or write reports about cyber crime"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",22,I did not know what the impact on me will be
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",23,"I feel it is waste of time, I think that there is no value of reporting, I did not trust the third party, I fixed the problem by myself"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",24,"I did not know who to write report about cyber crime, I did not know what the impact on me will be, I did not know how to describe or write reports about cyber crime , I feel it is waste of time, I think that there is no value of reporting, I did not trust the third party, I fixed the problem by myself, اختراق جهازي الشخصي وسرق ايميلي والحمدلله عالجت المشكلة واسترجعت حسابي"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",25,"I did not know who to write report about cyber crime, I did not know how to describe or write reports about cyber crime , I think that there is no value of reporting"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",26,"I did not know what the crime was , I did not know who to write report about cyber crime"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",27,"I did not know how to describe or write reports about cyber crime , I fixed the problem by myself"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",28,"I did not know what the crime was , I did not know who to write report about cyber crime, I think that there is no value of reporting"
+Q60,"If No, What was/were the reason/s? (Please check all that apply)",29,"I did not know who to write report about cyber crime, I did not know what the impact on me will be, I did not know how to describe or write reports about cyber crime, I feel it is waste of time"
+Q61,"B. If No, If you become a victim of cyber crime would you like to report it?",1,"No, I would not"
+Q61,"B. If No, If you become a victim of cyber crime would you like to report it?",2,"Yes, I would"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",1,"National Cyber Crime Reporting Portal, India"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",2,"Cyber Crime Portal, India"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",3,Indian eGovernment Portal
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",4,Don’t know but will ask friends for advice
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",5,"Cyber Crime Portal, India, Don’t know but will ask friends for advice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",6,"National Cyber Crime Reporting Portal, India, Police"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",7,"Police, Don’t know but will ask friends for advice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",8,"Indian eGovernment Portal , Don’t know but will ask friends for advice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",9,Police
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",10,"Cyber Crime Portal, India, Police"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",11,"National Cyber Crime Reporting Portal, India, Police, Committee for the Promotion of Virtue and the Prevention of Vice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",12,"Police, Committee for the Promotion of Virtue and the Prevention of Vice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",13,"Cyber Crime Portal, India, Police, Committee for the Promotion of Virtue and the Prevention of Vice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",14,"National Cyber Crime Reporting Portal, India, Don’t know but will ask friends for advice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",15,"Indian eGovernment Portal , Police"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",16,"Cyber Crime Portal, India, Police, Don’t know but will ask friends for advice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",17,"Indian eGovernment Portal , Police, Don’t know but will ask friends for advice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",18,"National Cyber Crime Reporting Portal, India, Police, Don’t know but will ask friends for advice"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",19,Other-AMN
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",20,"National Cyber Crime Reporting Portal, India, Other-MoC"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",21,Other-Internet Providers
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",22,"Don’t know but will ask friends for advice, Other-AMN"
+Q62,"If Yes, To whom would you report or contact? (Please check all that apply)",23,Other- Search on Internet
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",1,I do not know what the crime means
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",2,Not sure
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",3,I will fix the problem by myself
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",4,I do not know who to write report about cyber crime
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",5,I think that there will no value of reporting
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",6,I do not know how to describe or write reports about cyber crime
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",7,I feel it will be waste of time
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",8,I am not sure what the impact on me will be
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",9,"I do not know who to write report about cyber crime, I do not know what the impact on me will be, I do not know how to describe or write reports about cyber crime , I do not trust the third party, I will fix the problem by myself"
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",10,"I do not know who to write report about cyber crime, I do not trust the third party"
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",11,"I do not know what the crime means , I do not know who to write report about cyber crime, I do not know what the impact on me will be, I do not know how to describe or write reports about cyber crime , I do not trust the third party"
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",12,"I do not know what the crime means , I do not know who to write report about cyber crime"
+Q63,"If No, What is/are the reason/s? (Please check all that apply)",13,"I do not know what the crime means , I do not know who to write report about cyber crime, I do not know what the impact on me will be, I will fix the problem by myself"

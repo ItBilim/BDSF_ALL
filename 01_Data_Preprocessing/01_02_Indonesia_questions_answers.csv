@@ -1,0 +1,454 @@
+﻿Question_ID,Question_Text,Answer_ID,Answer_Text
+Q1,Jenis Kelamin,1,Laki-Laki
+Q1,Jenis Kelamin,2,Perempuan
+Q2,Usia,1,18 -29 Tahun
+Q2,Usia,2,Kurang dari 18 tahun
+Q2,Usia,3,30-39 Tahun
+Q2,Usia,4,40-49 Tahun
+Q3,Pekerjaan,1,Pelajar / Mahasiswa
+Q3,Pekerjaan,2,Tidak Bekerja
+Q3,Pekerjaan,3,Pegawai Swasta
+Q3,Pekerjaan,4,Freelance / Pekerja Lepas
+Q3,Pekerjaan,5,Wirausaha
+Q3,Pekerjaan,6,ASN/ Pegawai Pemerintahan
+Q4,Pendidikan Terakhir,1,S1/D3/D4
+Q4,Pendidikan Terakhir,2,SMA/Sederajat
+Q4,Pendidikan Terakhir,3,Di bawah SMA/Sederajat
+Q4,Pendidikan Terakhir,4,S2/S3
+Q5,Jumlah Platform Media Sosial yang Digunakan,1,2- 3 Platform
+Q5,Jumlah Platform Media Sosial yang Digunakan,2,4-5 Platform
+Q5,Jumlah Platform Media Sosial yang Digunakan,3,Lebih dari 5 Platform
+Q5,Jumlah Platform Media Sosial yang Digunakan,4,1 Platform
+Q6,Media Sosial yang Paling Sering Digunakan,1,Instagram
+Q6,Media Sosial yang Paling Sering Digunakan,2,Youtube
+Q6,Media Sosial yang Paling Sering Digunakan,3,Facebook
+Q6,Media Sosial yang Paling Sering Digunakan,4,X (Twitter)
+Q6,Media Sosial yang Paling Sering Digunakan,5,TikTok
+Q6,Media Sosial yang Paling Sering Digunakan,6,WhatsApp
+Q6,Media Sosial yang Paling Sering Digunakan,7,Multi-platform
+Q6,Media Sosial yang Paling Sering Digunakan,8,discord
+Q6,Media Sosial yang Paling Sering Digunakan,9,Discord
+Q6,Media Sosial yang Paling Sering Digunakan,10,Quora
+Q6,Media Sosial yang Paling Sering Digunakan,11,LinkedIn
+Q7,Durasi Penggunaan Media Sosial per Hari,1,3-4 Jam
+Q7,Durasi Penggunaan Media Sosial per Hari,2,Lebih dari 5 Jam
+Q7,Durasi Penggunaan Media Sosial per Hari,3,1 -2 Jam
+Q7,Durasi Penggunaan Media Sosial per Hari,4,2-3 Jam
+Q7,Durasi Penggunaan Media Sosial per Hari,5,4-5 Jam
+Q7,Durasi Penggunaan Media Sosial per Hari,6,Kurang dari 1 jam
+Q8,Tujuan Utama Penggunaan Media Sosial,1,Hiburan/Rekreasi
+Q8,Tujuan Utama Penggunaan Media Sosial,2,Edukasi/Informasi
+Q8,Tujuan Utama Penggunaan Media Sosial,3,Komunikasi Sosial
+Q8,Tujuan Utama Penggunaan Media Sosial,4,Pekerjaan/Bisnis
+Q8,Tujuan Utama Penggunaan Media Sosial,5,Promosi diri/Branding
+Q9,Kebijakan keamanan siber di Indonesia saat ini sudah efektif dalam mengatur pengiriman pesan untuk mencegah penyalahgunaan data di media sosial.,1,Tidak Setuju
+Q9,Kebijakan keamanan siber di Indonesia saat ini sudah efektif dalam mengatur pengiriman pesan untuk mencegah penyalahgunaan data di media sosial.,2,Sangat Tidak Setuju
+Q9,Kebijakan keamanan siber di Indonesia saat ini sudah efektif dalam mengatur pengiriman pesan untuk mencegah penyalahgunaan data di media sosial.,3,Sangat Setuju
+Q9,Kebijakan keamanan siber di Indonesia saat ini sudah efektif dalam mengatur pengiriman pesan untuk mencegah penyalahgunaan data di media sosial.,4,Setuju
+Q9,Kebijakan keamanan siber di Indonesia saat ini sudah efektif dalam mengatur pengiriman pesan untuk mencegah penyalahgunaan data di media sosial.,5,Netral
+Q10,Kebijakan di Indonesia telah efektif dalam memastikan adanya pemberitahuan rutin kepada masyarakat mengenai potensi ancaman siber di media sosial.,1,Tidak Setuju
+Q10,Kebijakan di Indonesia telah efektif dalam memastikan adanya pemberitahuan rutin kepada masyarakat mengenai potensi ancaman siber di media sosial.,2,Sangat Tidak Setuju
+Q10,Kebijakan di Indonesia telah efektif dalam memastikan adanya pemberitahuan rutin kepada masyarakat mengenai potensi ancaman siber di media sosial.,3,Sangat Setuju
+Q10,Kebijakan di Indonesia telah efektif dalam memastikan adanya pemberitahuan rutin kepada masyarakat mengenai potensi ancaman siber di media sosial.,4,Setuju
+Q10,Kebijakan di Indonesia telah efektif dalam memastikan adanya pemberitahuan rutin kepada masyarakat mengenai potensi ancaman siber di media sosial.,5,Netral
+Q11,Kebijakan dan strategi siber di Indonesia saat ini sudah efektif dalam mengatur penggunaan internet dan situs jaringan sosial untuk menangkal risiko keamanan.,1,Tidak Setuju
+Q11,Kebijakan dan strategi siber di Indonesia saat ini sudah efektif dalam mengatur penggunaan internet dan situs jaringan sosial untuk menangkal risiko keamanan.,2,Sangat Tidak Setuju
+Q11,Kebijakan dan strategi siber di Indonesia saat ini sudah efektif dalam mengatur penggunaan internet dan situs jaringan sosial untuk menangkal risiko keamanan.,3,Setuju
+Q11,Kebijakan dan strategi siber di Indonesia saat ini sudah efektif dalam mengatur penggunaan internet dan situs jaringan sosial untuk menangkal risiko keamanan.,4,Sangat Setuju
+Q11,Kebijakan dan strategi siber di Indonesia saat ini sudah efektif dalam mengatur penggunaan internet dan situs jaringan sosial untuk menangkal risiko keamanan.,5,Netral
+Q12,Kebijakan keamanan siber di Indonesia telah efektif dalam menjaga integritas (keakuratan dan kelengkapan) data pengguna di platform media sosial.,1,Tidak Setuju
+Q12,Kebijakan keamanan siber di Indonesia telah efektif dalam menjaga integritas (keakuratan dan kelengkapan) data pengguna di platform media sosial.,2,Sangat Tidak Setuju
+Q12,Kebijakan keamanan siber di Indonesia telah efektif dalam menjaga integritas (keakuratan dan kelengkapan) data pengguna di platform media sosial.,3,Setuju
+Q12,Kebijakan keamanan siber di Indonesia telah efektif dalam menjaga integritas (keakuratan dan kelengkapan) data pengguna di platform media sosial.,4,Sangat Setuju
+Q12,Kebijakan keamanan siber di Indonesia telah efektif dalam menjaga integritas (keakuratan dan kelengkapan) data pengguna di platform media sosial.,5,Netral
+Q13,Kebijakan yang ada di Indonesia saat ini sudah efektif dalam memberikan aturan yang jelas mengenai penanganan informasi sensitif di media sosial.,1,Tidak Setuju
+Q13,Kebijakan yang ada di Indonesia saat ini sudah efektif dalam memberikan aturan yang jelas mengenai penanganan informasi sensitif di media sosial.,2,Sangat Tidak Setuju
+Q13,Kebijakan yang ada di Indonesia saat ini sudah efektif dalam memberikan aturan yang jelas mengenai penanganan informasi sensitif di media sosial.,3,Setuju
+Q13,Kebijakan yang ada di Indonesia saat ini sudah efektif dalam memberikan aturan yang jelas mengenai penanganan informasi sensitif di media sosial.,4,Sangat Setuju
+Q13,Kebijakan yang ada di Indonesia saat ini sudah efektif dalam memberikan aturan yang jelas mengenai penanganan informasi sensitif di media sosial.,5,Netral
+Q14,Kebijakan keamanan informasi terkait media sosial di Indonesia sudah diperbarui secara periodik sehingga relevan dengan ancaman siber terkini.,1,Setuju
+Q14,Kebijakan keamanan informasi terkait media sosial di Indonesia sudah diperbarui secara periodik sehingga relevan dengan ancaman siber terkini.,2,Sangat Tidak Setuju
+Q14,Kebijakan keamanan informasi terkait media sosial di Indonesia sudah diperbarui secara periodik sehingga relevan dengan ancaman siber terkini.,3,Sangat Setuju
+Q14,Kebijakan keamanan informasi terkait media sosial di Indonesia sudah diperbarui secara periodik sehingga relevan dengan ancaman siber terkini.,4,Tidak Setuju
+Q14,Kebijakan keamanan informasi terkait media sosial di Indonesia sudah diperbarui secara periodik sehingga relevan dengan ancaman siber terkini.,5,Netral
+Q15,Kebijakan keamanan informasi siber di Indonesia yang ada saat ini sudah dirumuskan dengan jelas dan mudah dipahami oleh masyarakat umum.,1,Netral
+Q15,Kebijakan keamanan informasi siber di Indonesia yang ada saat ini sudah dirumuskan dengan jelas dan mudah dipahami oleh masyarakat umum.,2,Sangat Tidak Setuju
+Q15,Kebijakan keamanan informasi siber di Indonesia yang ada saat ini sudah dirumuskan dengan jelas dan mudah dipahami oleh masyarakat umum.,3,Setuju
+Q15,Kebijakan keamanan informasi siber di Indonesia yang ada saat ini sudah dirumuskan dengan jelas dan mudah dipahami oleh masyarakat umum.,4,Sangat Setuju
+Q15,Kebijakan keamanan informasi siber di Indonesia yang ada saat ini sudah dirumuskan dengan jelas dan mudah dipahami oleh masyarakat umum.,5,Tidak Setuju
+Q16,Strategi keamanan siber di Indonesia telah efektif dalam mengatur risiko keamanan yang timbul dari penggunaan aplikasi media sosial di perangkat seluler.,1,Tidak Setuju
+Q16,Strategi keamanan siber di Indonesia telah efektif dalam mengatur risiko keamanan yang timbul dari penggunaan aplikasi media sosial di perangkat seluler.,2,Sangat Tidak Setuju
+Q16,Strategi keamanan siber di Indonesia telah efektif dalam mengatur risiko keamanan yang timbul dari penggunaan aplikasi media sosial di perangkat seluler.,3,Setuju
+Q16,Strategi keamanan siber di Indonesia telah efektif dalam mengatur risiko keamanan yang timbul dari penggunaan aplikasi media sosial di perangkat seluler.,4,Sangat Setuju
+Q16,Strategi keamanan siber di Indonesia telah efektif dalam mengatur risiko keamanan yang timbul dari penggunaan aplikasi media sosial di perangkat seluler.,5,Netral
+Q17,Situs penegakan fakta yang ada saat ini (misalnya yang dikelola pemerintah) telah efektif dalam meningkatkan ketahanan siber pengguna media sosial di Indonesia.,1,Tidak Setuju
+Q17,Situs penegakan fakta yang ada saat ini (misalnya yang dikelola pemerintah) telah efektif dalam meningkatkan ketahanan siber pengguna media sosial di Indonesia.,2,Sangat Tidak Setuju
+Q17,Situs penegakan fakta yang ada saat ini (misalnya yang dikelola pemerintah) telah efektif dalam meningkatkan ketahanan siber pengguna media sosial di Indonesia.,3,Setuju
+Q17,Situs penegakan fakta yang ada saat ini (misalnya yang dikelola pemerintah) telah efektif dalam meningkatkan ketahanan siber pengguna media sosial di Indonesia.,4,Sangat Setuju
+Q17,Situs penegakan fakta yang ada saat ini (misalnya yang dikelola pemerintah) telah efektif dalam meningkatkan ketahanan siber pengguna media sosial di Indonesia.,5,Netral
+Q18,Manajemen keamanan teknologi siber oleh pihak berwenang di Indonesia sudah ditangani oleh para ahli sehingga efektif dalam melindungi pengguna media sosial.,1,Netral
+Q18,Manajemen keamanan teknologi siber oleh pihak berwenang di Indonesia sudah ditangani oleh para ahli sehingga efektif dalam melindungi pengguna media sosial.,2,Sangat Tidak Setuju
+Q18,Manajemen keamanan teknologi siber oleh pihak berwenang di Indonesia sudah ditangani oleh para ahli sehingga efektif dalam melindungi pengguna media sosial.,3,Setuju
+Q18,Manajemen keamanan teknologi siber oleh pihak berwenang di Indonesia sudah ditangani oleh para ahli sehingga efektif dalam melindungi pengguna media sosial.,4,Sangat Setuju
+Q18,Manajemen keamanan teknologi siber oleh pihak berwenang di Indonesia sudah ditangani oleh para ahli sehingga efektif dalam melindungi pengguna media sosial.,5,Tidak Setuju
+Q19,Kebijakan keamanan siber nasional yang berkaitan dengan media sosial sudah dapat diakses dengan mudah oleh seluruh lapisan masyarakat.,1,Netral
+Q19,Kebijakan keamanan siber nasional yang berkaitan dengan media sosial sudah dapat diakses dengan mudah oleh seluruh lapisan masyarakat.,2,Sangat Tidak Setuju
+Q19,Kebijakan keamanan siber nasional yang berkaitan dengan media sosial sudah dapat diakses dengan mudah oleh seluruh lapisan masyarakat.,3,Setuju
+Q19,Kebijakan keamanan siber nasional yang berkaitan dengan media sosial sudah dapat diakses dengan mudah oleh seluruh lapisan masyarakat.,4,Sangat Setuju
+Q19,Kebijakan keamanan siber nasional yang berkaitan dengan media sosial sudah dapat diakses dengan mudah oleh seluruh lapisan masyarakat.,5,Tidak Setuju
+Q20,Kebijakan dan strategi yang ada telah berhasil memastikan ketersediaan data pengguna di media sosial dari gangguan atau serangan siber.,1,Netral
+Q20,Kebijakan dan strategi yang ada telah berhasil memastikan ketersediaan data pengguna di media sosial dari gangguan atau serangan siber.,2,Sangat Tidak Setuju
+Q20,Kebijakan dan strategi yang ada telah berhasil memastikan ketersediaan data pengguna di media sosial dari gangguan atau serangan siber.,3,Setuju
+Q20,Kebijakan dan strategi yang ada telah berhasil memastikan ketersediaan data pengguna di media sosial dari gangguan atau serangan siber.,4,Sangat Setuju
+Q20,Kebijakan dan strategi yang ada telah berhasil memastikan ketersediaan data pengguna di media sosial dari gangguan atau serangan siber.,5,Tidak Setuju
+Q21,"Kolaborasi antara pemerintah, swasta, dan masyarakat dalam merumuskan kebijakan keamanan siber media sosial di Indonesia sudah berjalan efektif.",1,Tidak Setuju
+Q21,"Kolaborasi antara pemerintah, swasta, dan masyarakat dalam merumuskan kebijakan keamanan siber media sosial di Indonesia sudah berjalan efektif.",2,Sangat Tidak Setuju
+Q21,"Kolaborasi antara pemerintah, swasta, dan masyarakat dalam merumuskan kebijakan keamanan siber media sosial di Indonesia sudah berjalan efektif.",3,Setuju
+Q21,"Kolaborasi antara pemerintah, swasta, dan masyarakat dalam merumuskan kebijakan keamanan siber media sosial di Indonesia sudah berjalan efektif.",4,Sangat Setuju
+Q21,"Kolaborasi antara pemerintah, swasta, dan masyarakat dalam merumuskan kebijakan keamanan siber media sosial di Indonesia sudah berjalan efektif.",5,Netral
+Q22,Kebijakan di Indonesia telah memberikan panduan yang efektif mengenai penggunaan media sosial (Social Networking Sites) yang aman dan bertanggung jawab.,1,Tidak Setuju
+Q22,Kebijakan di Indonesia telah memberikan panduan yang efektif mengenai penggunaan media sosial (Social Networking Sites) yang aman dan bertanggung jawab.,2,Sangat Tidak Setuju
+Q22,Kebijakan di Indonesia telah memberikan panduan yang efektif mengenai penggunaan media sosial (Social Networking Sites) yang aman dan bertanggung jawab.,3,Setuju
+Q22,Kebijakan di Indonesia telah memberikan panduan yang efektif mengenai penggunaan media sosial (Social Networking Sites) yang aman dan bertanggung jawab.,4,Sangat Setuju
+Q22,Kebijakan di Indonesia telah memberikan panduan yang efektif mengenai penggunaan media sosial (Social Networking Sites) yang aman dan bertanggung jawab.,5,Netral
+Q23,Kebijakan siber di Indonesia secara umum sudah efektif dalam menjaga kerahasiaan data pribadi pengguna di media sosial.,1,Tidak Setuju
+Q23,Kebijakan siber di Indonesia secara umum sudah efektif dalam menjaga kerahasiaan data pribadi pengguna di media sosial.,2,Sangat Tidak Setuju
+Q23,Kebijakan siber di Indonesia secara umum sudah efektif dalam menjaga kerahasiaan data pribadi pengguna di media sosial.,3,Setuju
+Q23,Kebijakan siber di Indonesia secara umum sudah efektif dalam menjaga kerahasiaan data pribadi pengguna di media sosial.,4,Sangat Setuju
+Q23,Kebijakan siber di Indonesia secara umum sudah efektif dalam menjaga kerahasiaan data pribadi pengguna di media sosial.,5,Netral
+Q24,Kebijakan dan strategi siber di Indonesia telah efektif dalam mendorong praktik pengelolaan kata sandi (password) yang aman di kalangan pengguna media sosial.,1,Netral
+Q24,Kebijakan dan strategi siber di Indonesia telah efektif dalam mendorong praktik pengelolaan kata sandi (password) yang aman di kalangan pengguna media sosial.,2,Sangat Tidak Setuju
+Q24,Kebijakan dan strategi siber di Indonesia telah efektif dalam mendorong praktik pengelolaan kata sandi (password) yang aman di kalangan pengguna media sosial.,3,Setuju
+Q24,Kebijakan dan strategi siber di Indonesia telah efektif dalam mendorong praktik pengelolaan kata sandi (password) yang aman di kalangan pengguna media sosial.,4,Sangat Setuju
+Q24,Kebijakan dan strategi siber di Indonesia telah efektif dalam mendorong praktik pengelolaan kata sandi (password) yang aman di kalangan pengguna media sosial.,5,Tidak Setuju
+Q25,Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran (awareness) yang tinggi terhadap ancaman peretasan (hacking).,1,Netral
+Q25,Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran (awareness) yang tinggi terhadap ancaman peretasan (hacking).,2,Sangat Tidak Setuju
+Q25,Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran (awareness) yang tinggi terhadap ancaman peretasan (hacking).,3,Setuju
+Q25,Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran (awareness) yang tinggi terhadap ancaman peretasan (hacking).,4,Sangat Setuju
+Q25,Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran (awareness) yang tinggi terhadap ancaman peretasan (hacking).,5,Tidak Setuju
+Q26,Masyarakat pengguna media sosial di Indonesia sudah bijak dalam membedakan informasi pribadi yang sensitif dan yang aman untuk dibagikan secara publik.,1,Netral
+Q26,Masyarakat pengguna media sosial di Indonesia sudah bijak dalam membedakan informasi pribadi yang sensitif dan yang aman untuk dibagikan secara publik.,2,Sangat Tidak Setuju
+Q26,Masyarakat pengguna media sosial di Indonesia sudah bijak dalam membedakan informasi pribadi yang sensitif dan yang aman untuk dibagikan secara publik.,3,Sangat Setuju
+Q26,Masyarakat pengguna media sosial di Indonesia sudah bijak dalam membedakan informasi pribadi yang sensitif dan yang aman untuk dibagikan secara publik.,4,Tidak Setuju
+Q26,Masyarakat pengguna media sosial di Indonesia sudah bijak dalam membedakan informasi pribadi yang sensitif dan yang aman untuk dibagikan secara publik.,5,Setuju
+Q27,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang baik mengenai kebijakan privasi dan bagaimana aplikasi dapat mengumpulkan data pribadi mereka tanpa izin.,1,Netral
+Q27,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang baik mengenai kebijakan privasi dan bagaimana aplikasi dapat mengumpulkan data pribadi mereka tanpa izin.,2,Sangat Tidak Setuju
+Q27,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang baik mengenai kebijakan privasi dan bagaimana aplikasi dapat mengumpulkan data pribadi mereka tanpa izin.,3,Sangat Setuju
+Q27,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang baik mengenai kebijakan privasi dan bagaimana aplikasi dapat mengumpulkan data pribadi mereka tanpa izin.,4,Setuju
+Q27,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang baik mengenai kebijakan privasi dan bagaimana aplikasi dapat mengumpulkan data pribadi mereka tanpa izin.,5,Tidak Setuju
+Q28,Masyarakat pengguna media sosial di Indonesia sudah memiliki kesadaran yang tinggi untuk tidak sembarangan mengunduh atau membuka file/lampiran yang mencurigakan.,1,Netral
+Q28,Masyarakat pengguna media sosial di Indonesia sudah memiliki kesadaran yang tinggi untuk tidak sembarangan mengunduh atau membuka file/lampiran yang mencurigakan.,2,Sangat Tidak Setuju
+Q28,Masyarakat pengguna media sosial di Indonesia sudah memiliki kesadaran yang tinggi untuk tidak sembarangan mengunduh atau membuka file/lampiran yang mencurigakan.,3,Sangat Setuju
+Q28,Masyarakat pengguna media sosial di Indonesia sudah memiliki kesadaran yang tinggi untuk tidak sembarangan mengunduh atau membuka file/lampiran yang mencurigakan.,4,Setuju
+Q28,Masyarakat pengguna media sosial di Indonesia sudah memiliki kesadaran yang tinggi untuk tidak sembarangan mengunduh atau membuka file/lampiran yang mencurigakan.,5,Tidak Setuju
+Q29,Masyarakat pengguna media sosial di Indonesia sudah terbiasa memastikan keamanan sebuah situs web (misalnya dengan memeriksa sertifikat digital) sebelum memasukkan data pribadi.,1,Netral
+Q29,Masyarakat pengguna media sosial di Indonesia sudah terbiasa memastikan keamanan sebuah situs web (misalnya dengan memeriksa sertifikat digital) sebelum memasukkan data pribadi.,2,Sangat Tidak Setuju
+Q29,Masyarakat pengguna media sosial di Indonesia sudah terbiasa memastikan keamanan sebuah situs web (misalnya dengan memeriksa sertifikat digital) sebelum memasukkan data pribadi.,3,Sangat Setuju
+Q29,Masyarakat pengguna media sosial di Indonesia sudah terbiasa memastikan keamanan sebuah situs web (misalnya dengan memeriksa sertifikat digital) sebelum memasukkan data pribadi.,4,Tidak Setuju
+Q29,Masyarakat pengguna media sosial di Indonesia sudah terbiasa memastikan keamanan sebuah situs web (misalnya dengan memeriksa sertifikat digital) sebelum memasukkan data pribadi.,5,Setuju
+Q30,Penggunaan software antivirus yang diperbarui secara berkala sudah menjadi praktik umum bagi masyarakat pengguna media sosial di Indonesia untuk melindungi perangkat mereka.,1,Netral
+Q30,Penggunaan software antivirus yang diperbarui secara berkala sudah menjadi praktik umum bagi masyarakat pengguna media sosial di Indonesia untuk melindungi perangkat mereka.,2,Sangat Tidak Setuju
+Q30,Penggunaan software antivirus yang diperbarui secara berkala sudah menjadi praktik umum bagi masyarakat pengguna media sosial di Indonesia untuk melindungi perangkat mereka.,3,Setuju
+Q30,Penggunaan software antivirus yang diperbarui secara berkala sudah menjadi praktik umum bagi masyarakat pengguna media sosial di Indonesia untuk melindungi perangkat mereka.,4,Sangat Setuju
+Q30,Penggunaan software antivirus yang diperbarui secara berkala sudah menjadi praktik umum bagi masyarakat pengguna media sosial di Indonesia untuk melindungi perangkat mereka.,5,Tidak Setuju
+Q31,Masyarakat pengguna media sosial di Indonesia sudah memahami risiko dan menerapkan kehati-hatian saat mengakses akun mereka menggunakan jaringan internet publik.,1,Tidak Setuju
+Q31,Masyarakat pengguna media sosial di Indonesia sudah memahami risiko dan menerapkan kehati-hatian saat mengakses akun mereka menggunakan jaringan internet publik.,2,Sangat Tidak Setuju
+Q31,Masyarakat pengguna media sosial di Indonesia sudah memahami risiko dan menerapkan kehati-hatian saat mengakses akun mereka menggunakan jaringan internet publik.,3,Setuju
+Q31,Masyarakat pengguna media sosial di Indonesia sudah memahami risiko dan menerapkan kehati-hatian saat mengakses akun mereka menggunakan jaringan internet publik.,4,Sangat Setuju
+Q31,Masyarakat pengguna media sosial di Indonesia sudah memahami risiko dan menerapkan kehati-hatian saat mengakses akun mereka menggunakan jaringan internet publik.,5,Netral
+Q32,"Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran privasi yang baik, seperti tidak membagikan lokasi atau informasi personal secara berlebihan.",1,Tidak Setuju
+Q32,"Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran privasi yang baik, seperti tidak membagikan lokasi atau informasi personal secara berlebihan.",2,Sangat Tidak Setuju
+Q32,"Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran privasi yang baik, seperti tidak membagikan lokasi atau informasi personal secara berlebihan.",3,Netral
+Q32,"Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran privasi yang baik, seperti tidak membagikan lokasi atau informasi personal secara berlebihan.",4,Sangat Setuju
+Q32,"Masyarakat pengguna media sosial di Indonesia secara umum sudah memiliki kesadaran privasi yang baik, seperti tidak membagikan lokasi atau informasi personal secara berlebihan.",5,Setuju
+Q33,"Praktik membuat dan menggunakan password yang kuat (kombinasi huruf, angka, dan simbol) sudah menjadi budaya di kalangan pengguna media sosial Indonesia.",1,Tidak Setuju
+Q33,"Praktik membuat dan menggunakan password yang kuat (kombinasi huruf, angka, dan simbol) sudah menjadi budaya di kalangan pengguna media sosial Indonesia.",2,Sangat Tidak Setuju
+Q33,"Praktik membuat dan menggunakan password yang kuat (kombinasi huruf, angka, dan simbol) sudah menjadi budaya di kalangan pengguna media sosial Indonesia.",3,Setuju
+Q33,"Praktik membuat dan menggunakan password yang kuat (kombinasi huruf, angka, dan simbol) sudah menjadi budaya di kalangan pengguna media sosial Indonesia.",4,Sangat Setuju
+Q33,"Praktik membuat dan menggunakan password yang kuat (kombinasi huruf, angka, dan simbol) sudah menjadi budaya di kalangan pengguna media sosial Indonesia.",5,Netral
+Q34,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang tinggi terhadap ancaman virus dan dampaknya terhadap keamanan data.,1,Tidak Setuju
+Q34,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang tinggi terhadap ancaman virus dan dampaknya terhadap keamanan data.,2,Sangat Tidak Setuju
+Q34,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang tinggi terhadap ancaman virus dan dampaknya terhadap keamanan data.,3,Setuju
+Q34,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang tinggi terhadap ancaman virus dan dampaknya terhadap keamanan data.,4,Sangat Setuju
+Q34,Masyarakat pengguna media sosial di Indonesia memiliki kesadaran yang tinggi terhadap ancaman virus dan dampaknya terhadap keamanan data.,5,Netral
+Q35,Penggunaan verifikasi dua faktor (Two-Factor Authentication) sudah menjadi kebiasaan umum bagi masyarakat Indonesia untuk mengamankan akun media sosial mereka.,1,Tidak Setuju
+Q35,Penggunaan verifikasi dua faktor (Two-Factor Authentication) sudah menjadi kebiasaan umum bagi masyarakat Indonesia untuk mengamankan akun media sosial mereka.,2,Sangat Tidak Setuju
+Q35,Penggunaan verifikasi dua faktor (Two-Factor Authentication) sudah menjadi kebiasaan umum bagi masyarakat Indonesia untuk mengamankan akun media sosial mereka.,3,Setuju
+Q35,Penggunaan verifikasi dua faktor (Two-Factor Authentication) sudah menjadi kebiasaan umum bagi masyarakat Indonesia untuk mengamankan akun media sosial mereka.,4,Sangat Setuju
+Q35,Penggunaan verifikasi dua faktor (Two-Factor Authentication) sudah menjadi kebiasaan umum bagi masyarakat Indonesia untuk mengamankan akun media sosial mereka.,5,Netral
+Q36,Masyarakat pengguna media sosial di Indonesia sudah memiliki kemampuan yang baik untuk mengenali dan menghindari berbagai jenis penipuan online (scam/phishing).,1,Tidak Setuju
+Q36,Masyarakat pengguna media sosial di Indonesia sudah memiliki kemampuan yang baik untuk mengenali dan menghindari berbagai jenis penipuan online (scam/phishing).,2,Sangat Tidak Setuju
+Q36,Masyarakat pengguna media sosial di Indonesia sudah memiliki kemampuan yang baik untuk mengenali dan menghindari berbagai jenis penipuan online (scam/phishing).,3,Setuju
+Q36,Masyarakat pengguna media sosial di Indonesia sudah memiliki kemampuan yang baik untuk mengenali dan menghindari berbagai jenis penipuan online (scam/phishing).,4,Sangat Setuju
+Q36,Masyarakat pengguna media sosial di Indonesia sudah memiliki kemampuan yang baik untuk mengenali dan menghindari berbagai jenis penipuan online (scam/phishing).,5,Netral
+Q37,Masyarakat di Indonesia secara umum telah mengaktifkan dan memahami fungsi firewall sebagai lapisan perlindungan dasar pada perangkat mereka.,1,Tidak Setuju
+Q37,Masyarakat di Indonesia secara umum telah mengaktifkan dan memahami fungsi firewall sebagai lapisan perlindungan dasar pada perangkat mereka.,2,Sangat Tidak Setuju
+Q37,Masyarakat di Indonesia secara umum telah mengaktifkan dan memahami fungsi firewall sebagai lapisan perlindungan dasar pada perangkat mereka.,3,Setuju
+Q37,Masyarakat di Indonesia secara umum telah mengaktifkan dan memahami fungsi firewall sebagai lapisan perlindungan dasar pada perangkat mereka.,4,Sangat Setuju
+Q37,Masyarakat di Indonesia secara umum telah mengaktifkan dan memahami fungsi firewall sebagai lapisan perlindungan dasar pada perangkat mereka.,5,Netral
+Q38,Memperbarui aplikasi media sosial dan sistem operasi secara rutin sudah menjadi budaya keamanan siber yang baik di kalangan masyarakat Indonesia untuk menghindari kerentanan.,1,Tidak Setuju
+Q38,Memperbarui aplikasi media sosial dan sistem operasi secara rutin sudah menjadi budaya keamanan siber yang baik di kalangan masyarakat Indonesia untuk menghindari kerentanan.,2,Sangat Tidak Setuju
+Q38,Memperbarui aplikasi media sosial dan sistem operasi secara rutin sudah menjadi budaya keamanan siber yang baik di kalangan masyarakat Indonesia untuk menghindari kerentanan.,3,Setuju
+Q38,Memperbarui aplikasi media sosial dan sistem operasi secara rutin sudah menjadi budaya keamanan siber yang baik di kalangan masyarakat Indonesia untuk menghindari kerentanan.,4,Sangat Setuju
+Q38,Memperbarui aplikasi media sosial dan sistem operasi secara rutin sudah menjadi budaya keamanan siber yang baik di kalangan masyarakat Indonesia untuk menghindari kerentanan.,5,Netral
+Q39,Artikel berita yang berkualitas mengenai ancaman siber sudah tersedia dan mudah diakses oleh pengguna media sosial di Indonesia.,1,Tidak Setuju
+Q39,Artikel berita yang berkualitas mengenai ancaman siber sudah tersedia dan mudah diakses oleh pengguna media sosial di Indonesia.,2,Sangat Tidak Setuju
+Q39,Artikel berita yang berkualitas mengenai ancaman siber sudah tersedia dan mudah diakses oleh pengguna media sosial di Indonesia.,3,Setuju
+Q39,Artikel berita yang berkualitas mengenai ancaman siber sudah tersedia dan mudah diakses oleh pengguna media sosial di Indonesia.,4,Sangat Setuju
+Q39,Artikel berita yang berkualitas mengenai ancaman siber sudah tersedia dan mudah diakses oleh pengguna media sosial di Indonesia.,5,Netral
+Q40,Ketersediaan dan pemanfaatan metode pelatihan berbasis komputer (CBT) untuk edukasi keamanan siber bagi masyarakat di Indonesia sudah memadai.,1,Tidak Setuju
+Q40,Ketersediaan dan pemanfaatan metode pelatihan berbasis komputer (CBT) untuk edukasi keamanan siber bagi masyarakat di Indonesia sudah memadai.,2,Sangat Tidak Setuju
+Q40,Ketersediaan dan pemanfaatan metode pelatihan berbasis komputer (CBT) untuk edukasi keamanan siber bagi masyarakat di Indonesia sudah memadai.,3,Setuju
+Q40,Ketersediaan dan pemanfaatan metode pelatihan berbasis komputer (CBT) untuk edukasi keamanan siber bagi masyarakat di Indonesia sudah memadai.,4,Sangat Setuju
+Q40,Ketersediaan dan pemanfaatan metode pelatihan berbasis komputer (CBT) untuk edukasi keamanan siber bagi masyarakat di Indonesia sudah memadai.,5,Netral
+Q41,"Program edukasi keamanan siber di Indonesia saat ini sudah memberikan pengetahuan teknis (misalnya tentang firewall, enkripsi) yang relevan bagi pengguna media sosial.",1,Netral
+Q41,"Program edukasi keamanan siber di Indonesia saat ini sudah memberikan pengetahuan teknis (misalnya tentang firewall, enkripsi) yang relevan bagi pengguna media sosial.",2,Sangat Tidak Setuju
+Q41,"Program edukasi keamanan siber di Indonesia saat ini sudah memberikan pengetahuan teknis (misalnya tentang firewall, enkripsi) yang relevan bagi pengguna media sosial.",3,Sangat Setuju
+Q41,"Program edukasi keamanan siber di Indonesia saat ini sudah memberikan pengetahuan teknis (misalnya tentang firewall, enkripsi) yang relevan bagi pengguna media sosial.",4,Setuju
+Q41,"Program edukasi keamanan siber di Indonesia saat ini sudah memberikan pengetahuan teknis (misalnya tentang firewall, enkripsi) yang relevan bagi pengguna media sosial.",5,Tidak Setuju
+Q42,Pemanfaatan media kreatif seperti video dan game edukasi untuk meningkatkan kesadaran keamanan siber di kalangan pengguna media sosial Indonesia saat ini sudah baik.,1,Netral
+Q42,Pemanfaatan media kreatif seperti video dan game edukasi untuk meningkatkan kesadaran keamanan siber di kalangan pengguna media sosial Indonesia saat ini sudah baik.,2,Sangat Tidak Setuju
+Q42,Pemanfaatan media kreatif seperti video dan game edukasi untuk meningkatkan kesadaran keamanan siber di kalangan pengguna media sosial Indonesia saat ini sudah baik.,3,Setuju
+Q42,Pemanfaatan media kreatif seperti video dan game edukasi untuk meningkatkan kesadaran keamanan siber di kalangan pengguna media sosial Indonesia saat ini sudah baik.,4,Sangat Setuju
+Q42,Pemanfaatan media kreatif seperti video dan game edukasi untuk meningkatkan kesadaran keamanan siber di kalangan pengguna media sosial Indonesia saat ini sudah baik.,5,Tidak Setuju
+Q43,Penggunaan media informasi seperti poster (baik digital maupun fisik) telah dimanfaatkan secara luas untuk kampanye kesadaran keamanan siber di Indonesia.,1,Tidak Setuju
+Q43,Penggunaan media informasi seperti poster (baik digital maupun fisik) telah dimanfaatkan secara luas untuk kampanye kesadaran keamanan siber di Indonesia.,2,Sangat Tidak Setuju
+Q43,Penggunaan media informasi seperti poster (baik digital maupun fisik) telah dimanfaatkan secara luas untuk kampanye kesadaran keamanan siber di Indonesia.,3,Setuju
+Q43,Penggunaan media informasi seperti poster (baik digital maupun fisik) telah dimanfaatkan secara luas untuk kampanye kesadaran keamanan siber di Indonesia.,4,Sangat Setuju
+Q43,Penggunaan media informasi seperti poster (baik digital maupun fisik) telah dimanfaatkan secara luas untuk kampanye kesadaran keamanan siber di Indonesia.,5,Netral
+Q44,Frekuensi dan kualitas penyelenggaraan web seminar (webinar) bertema keamanan siber yang ditujukan untuk pengguna media sosial di Indonesia sudah baik.,1,Tidak Setuju
+Q44,Frekuensi dan kualitas penyelenggaraan web seminar (webinar) bertema keamanan siber yang ditujukan untuk pengguna media sosial di Indonesia sudah baik.,2,Sangat Tidak Setuju
+Q44,Frekuensi dan kualitas penyelenggaraan web seminar (webinar) bertema keamanan siber yang ditujukan untuk pengguna media sosial di Indonesia sudah baik.,3,Setuju
+Q44,Frekuensi dan kualitas penyelenggaraan web seminar (webinar) bertema keamanan siber yang ditujukan untuk pengguna media sosial di Indonesia sudah baik.,4,Sangat Setuju
+Q44,Frekuensi dan kualitas penyelenggaraan web seminar (webinar) bertema keamanan siber yang ditujukan untuk pengguna media sosial di Indonesia sudah baik.,5,Netral
+Q45,Program pelatihan kesadaran keamanan siber secara umum telah menjangkau sebagian besar masyarakat pengguna media sosial di Indonesia.,1,Tidak Setuju
+Q45,Program pelatihan kesadaran keamanan siber secara umum telah menjangkau sebagian besar masyarakat pengguna media sosial di Indonesia.,2,Sangat Tidak Setuju
+Q45,Program pelatihan kesadaran keamanan siber secara umum telah menjangkau sebagian besar masyarakat pengguna media sosial di Indonesia.,3,Setuju
+Q45,Program pelatihan kesadaran keamanan siber secara umum telah menjangkau sebagian besar masyarakat pengguna media sosial di Indonesia.,4,Sangat Setuju
+Q45,Program pelatihan kesadaran keamanan siber secara umum telah menjangkau sebagian besar masyarakat pengguna media sosial di Indonesia.,5,Netral
+Q46,Budaya saling berbagi pengetahuan (knowledge sharing) mengenai ancaman siber di dalam komunitas-komunitas online di Indonesia saat ini sudah berkembang dengan baik.,1,Tidak Setuju
+Q46,Budaya saling berbagi pengetahuan (knowledge sharing) mengenai ancaman siber di dalam komunitas-komunitas online di Indonesia saat ini sudah berkembang dengan baik.,2,Sangat Tidak Setuju
+Q46,Budaya saling berbagi pengetahuan (knowledge sharing) mengenai ancaman siber di dalam komunitas-komunitas online di Indonesia saat ini sudah berkembang dengan baik.,3,Setuju
+Q46,Budaya saling berbagi pengetahuan (knowledge sharing) mengenai ancaman siber di dalam komunitas-komunitas online di Indonesia saat ini sudah berkembang dengan baik.,4,Sangat Setuju
+Q46,Budaya saling berbagi pengetahuan (knowledge sharing) mengenai ancaman siber di dalam komunitas-komunitas online di Indonesia saat ini sudah berkembang dengan baik.,5,Netral
+Q47,Metode pemberitahuan keamanan melalui email (email messaging) sudah umum digunakan oleh berbagai pihak di Indonesia untuk meningkatkan kewaspadaan pengguna media sosial.,1,Tidak Setuju
+Q47,Metode pemberitahuan keamanan melalui email (email messaging) sudah umum digunakan oleh berbagai pihak di Indonesia untuk meningkatkan kewaspadaan pengguna media sosial.,2,Sangat Tidak Setuju
+Q47,Metode pemberitahuan keamanan melalui email (email messaging) sudah umum digunakan oleh berbagai pihak di Indonesia untuk meningkatkan kewaspadaan pengguna media sosial.,3,Setuju
+Q47,Metode pemberitahuan keamanan melalui email (email messaging) sudah umum digunakan oleh berbagai pihak di Indonesia untuk meningkatkan kewaspadaan pengguna media sosial.,4,Sangat Setuju
+Q47,Metode pemberitahuan keamanan melalui email (email messaging) sudah umum digunakan oleh berbagai pihak di Indonesia untuk meningkatkan kewaspadaan pengguna media sosial.,5,Netral
+Q48,Ketersediaan pelatihan atau sosialisasi mengenai kebijakan dan regulasi keamanan siber (seperti UU ITE/PDP) bagi masyarakat umum di Indonesia sudah memadai.,1,Tidak Setuju
+Q48,Ketersediaan pelatihan atau sosialisasi mengenai kebijakan dan regulasi keamanan siber (seperti UU ITE/PDP) bagi masyarakat umum di Indonesia sudah memadai.,2,Sangat Tidak Setuju
+Q48,Ketersediaan pelatihan atau sosialisasi mengenai kebijakan dan regulasi keamanan siber (seperti UU ITE/PDP) bagi masyarakat umum di Indonesia sudah memadai.,3,Setuju
+Q48,Ketersediaan pelatihan atau sosialisasi mengenai kebijakan dan regulasi keamanan siber (seperti UU ITE/PDP) bagi masyarakat umum di Indonesia sudah memadai.,4,Sangat Setuju
+Q48,Ketersediaan pelatihan atau sosialisasi mengenai kebijakan dan regulasi keamanan siber (seperti UU ITE/PDP) bagi masyarakat umum di Indonesia sudah memadai.,5,Netral
+Q49,Materi pelatihan keamanan siber di Indonesia saat ini telah relevan dan membahas tantangan-tantangan terkini (seperti phishing dan ransomware) yang dihadapi pengguna media sosial.,1,Tidak Setuju
+Q49,Materi pelatihan keamanan siber di Indonesia saat ini telah relevan dan membahas tantangan-tantangan terkini (seperti phishing dan ransomware) yang dihadapi pengguna media sosial.,2,Sangat Tidak Setuju
+Q49,Materi pelatihan keamanan siber di Indonesia saat ini telah relevan dan membahas tantangan-tantangan terkini (seperti phishing dan ransomware) yang dihadapi pengguna media sosial.,3,Setuju
+Q49,Materi pelatihan keamanan siber di Indonesia saat ini telah relevan dan membahas tantangan-tantangan terkini (seperti phishing dan ransomware) yang dihadapi pengguna media sosial.,4,Sangat Setuju
+Q49,Materi pelatihan keamanan siber di Indonesia saat ini telah relevan dan membahas tantangan-tantangan terkini (seperti phishing dan ransomware) yang dihadapi pengguna media sosial.,5,Netral
+Q50,Pemanfaatan forum diskusi kelompok (baik online maupun offline) sebagai sarana edukasi keamanan siber di Indonesia sudah berjalan secara efektif.,1,Tidak Setuju
+Q50,Pemanfaatan forum diskusi kelompok (baik online maupun offline) sebagai sarana edukasi keamanan siber di Indonesia sudah berjalan secara efektif.,2,Sangat Tidak Setuju
+Q50,Pemanfaatan forum diskusi kelompok (baik online maupun offline) sebagai sarana edukasi keamanan siber di Indonesia sudah berjalan secara efektif.,3,Setuju
+Q50,Pemanfaatan forum diskusi kelompok (baik online maupun offline) sebagai sarana edukasi keamanan siber di Indonesia sudah berjalan secara efektif.,4,Sangat Setuju
+Q50,Pemanfaatan forum diskusi kelompok (baik online maupun offline) sebagai sarana edukasi keamanan siber di Indonesia sudah berjalan secara efektif.,5,Netral
+Q51,"Perlindungan hukum di Indonesia saat ini sudah memadai untuk melindungi sistem informasi kritis (misalnya, perbankan) dari ancaman siber yang berasal dari media sosial.",1,Tidak Setuju
+Q51,"Perlindungan hukum di Indonesia saat ini sudah memadai untuk melindungi sistem informasi kritis (misalnya, perbankan) dari ancaman siber yang berasal dari media sosial.",2,Sangat Tidak Setuju
+Q51,"Perlindungan hukum di Indonesia saat ini sudah memadai untuk melindungi sistem informasi kritis (misalnya, perbankan) dari ancaman siber yang berasal dari media sosial.",3,Setuju
+Q51,"Perlindungan hukum di Indonesia saat ini sudah memadai untuk melindungi sistem informasi kritis (misalnya, perbankan) dari ancaman siber yang berasal dari media sosial.",4,Sangat Setuju
+Q51,"Perlindungan hukum di Indonesia saat ini sudah memadai untuk melindungi sistem informasi kritis (misalnya, perbankan) dari ancaman siber yang berasal dari media sosial.",5,Netral
+Q52,Peraturan dan penegakannya di Indonesia saat ini sudah efektif dalam mengontrol konten ilegal dan berbahaya (seperti ujaran kebencian) di media sosial.,1,Tidak Setuju
+Q52,Peraturan dan penegakannya di Indonesia saat ini sudah efektif dalam mengontrol konten ilegal dan berbahaya (seperti ujaran kebencian) di media sosial.,2,Sangat Tidak Setuju
+Q52,Peraturan dan penegakannya di Indonesia saat ini sudah efektif dalam mengontrol konten ilegal dan berbahaya (seperti ujaran kebencian) di media sosial.,3,Setuju
+Q52,Peraturan dan penegakannya di Indonesia saat ini sudah efektif dalam mengontrol konten ilegal dan berbahaya (seperti ujaran kebencian) di media sosial.,4,Sangat Setuju
+Q52,Peraturan dan penegakannya di Indonesia saat ini sudah efektif dalam mengontrol konten ilegal dan berbahaya (seperti ujaran kebencian) di media sosial.,5,Netral
+Q53,Pembagian tanggung jawab keamanan siber terkait media sosial antar lembaga pemerintah di Indonesia saat ini sudah berjalan dengan jelas dan terkoordinasi.,1,Tidak Setuju
+Q53,Pembagian tanggung jawab keamanan siber terkait media sosial antar lembaga pemerintah di Indonesia saat ini sudah berjalan dengan jelas dan terkoordinasi.,2,Sangat Tidak Setuju
+Q53,Pembagian tanggung jawab keamanan siber terkait media sosial antar lembaga pemerintah di Indonesia saat ini sudah berjalan dengan jelas dan terkoordinasi.,3,Setuju
+Q53,Pembagian tanggung jawab keamanan siber terkait media sosial antar lembaga pemerintah di Indonesia saat ini sudah berjalan dengan jelas dan terkoordinasi.,4,Sangat Setuju
+Q53,Pembagian tanggung jawab keamanan siber terkait media sosial antar lembaga pemerintah di Indonesia saat ini sudah berjalan dengan jelas dan terkoordinasi.,5,Netral
+Q54,Kerangka hukum di Indonesia saat ini telah berhasil menyeimbangkan antara kebebasan berbicara dengan pencegahan penyebaran konten berbahaya di media sosial.,1,Tidak Setuju
+Q54,Kerangka hukum di Indonesia saat ini telah berhasil menyeimbangkan antara kebebasan berbicara dengan pencegahan penyebaran konten berbahaya di media sosial.,2,Sangat Tidak Setuju
+Q54,Kerangka hukum di Indonesia saat ini telah berhasil menyeimbangkan antara kebebasan berbicara dengan pencegahan penyebaran konten berbahaya di media sosial.,3,Setuju
+Q54,Kerangka hukum di Indonesia saat ini telah berhasil menyeimbangkan antara kebebasan berbicara dengan pencegahan penyebaran konten berbahaya di media sosial.,4,Sangat Setuju
+Q54,Kerangka hukum di Indonesia saat ini telah berhasil menyeimbangkan antara kebebasan berbicara dengan pencegahan penyebaran konten berbahaya di media sosial.,5,Netral
+Q55,"Peraturan di Indonesia saat ini telah efektif dalam mengatur peran dan kewajiban sektor swasta (platform media sosial, ISP) dalam menjaga keamanan siber nasional.",1,Sangat Tidak Setuju
+Q55,"Peraturan di Indonesia saat ini telah efektif dalam mengatur peran dan kewajiban sektor swasta (platform media sosial, ISP) dalam menjaga keamanan siber nasional.",2,Setuju
+Q55,"Peraturan di Indonesia saat ini telah efektif dalam mengatur peran dan kewajiban sektor swasta (platform media sosial, ISP) dalam menjaga keamanan siber nasional.",3,Sangat Setuju
+Q55,"Peraturan di Indonesia saat ini telah efektif dalam mengatur peran dan kewajiban sektor swasta (platform media sosial, ISP) dalam menjaga keamanan siber nasional.",4,Netral
+Q55,"Peraturan di Indonesia saat ini telah efektif dalam mengatur peran dan kewajiban sektor swasta (platform media sosial, ISP) dalam menjaga keamanan siber nasional.",5,Tidak Setuju
+Q56,Penerapan standar sertifikasi keamanan siber untuk produk dan layanan TIK dalam ekosistem media sosial di Indonesia sudah berjalan dengan baik.,1,Sangat Tidak Setuju
+Q56,Penerapan standar sertifikasi keamanan siber untuk produk dan layanan TIK dalam ekosistem media sosial di Indonesia sudah berjalan dengan baik.,2,Setuju
+Q56,Penerapan standar sertifikasi keamanan siber untuk produk dan layanan TIK dalam ekosistem media sosial di Indonesia sudah berjalan dengan baik.,3,Sangat Setuju
+Q56,Penerapan standar sertifikasi keamanan siber untuk produk dan layanan TIK dalam ekosistem media sosial di Indonesia sudah berjalan dengan baik.,4,Netral
+Q56,Penerapan standar sertifikasi keamanan siber untuk produk dan layanan TIK dalam ekosistem media sosial di Indonesia sudah berjalan dengan baik.,5,Tidak Setuju
+Q57,Kerangka hukum pertahanan siber (cyber defence) di Indonesia saat ini sudah memadai untuk merespons ancaman skala besar yang berasal dari media sosial.,1,Tidak Setuju
+Q57,Kerangka hukum pertahanan siber (cyber defence) di Indonesia saat ini sudah memadai untuk merespons ancaman skala besar yang berasal dari media sosial.,2,Sangat Tidak Setuju
+Q57,Kerangka hukum pertahanan siber (cyber defence) di Indonesia saat ini sudah memadai untuk merespons ancaman skala besar yang berasal dari media sosial.,3,Setuju
+Q57,Kerangka hukum pertahanan siber (cyber defence) di Indonesia saat ini sudah memadai untuk merespons ancaman skala besar yang berasal dari media sosial.,4,Sangat Setuju
+Q57,Kerangka hukum pertahanan siber (cyber defence) di Indonesia saat ini sudah memadai untuk merespons ancaman skala besar yang berasal dari media sosial.,5,Netral
+Q58,Peraturan yang ada di Indonesia saat ini sudah efektif dalam menangani penyebaran disinformasi di media sosial yang dapat merusak kepercayaan publik.,1,Tidak Setuju
+Q58,Peraturan yang ada di Indonesia saat ini sudah efektif dalam menangani penyebaran disinformasi di media sosial yang dapat merusak kepercayaan publik.,2,Sangat Tidak Setuju
+Q58,Peraturan yang ada di Indonesia saat ini sudah efektif dalam menangani penyebaran disinformasi di media sosial yang dapat merusak kepercayaan publik.,3,Setuju
+Q58,Peraturan yang ada di Indonesia saat ini sudah efektif dalam menangani penyebaran disinformasi di media sosial yang dapat merusak kepercayaan publik.,4,Sangat Setuju
+Q58,Peraturan yang ada di Indonesia saat ini sudah efektif dalam menangani penyebaran disinformasi di media sosial yang dapat merusak kepercayaan publik.,5,Netral
+Q59,Kerangka hukum di Indonesia sudah memadai untuk mendukung upaya pencegahan dan investigasi kejahatan siber yang terjadi melalui media sosial.,1,Tidak Setuju
+Q59,Kerangka hukum di Indonesia sudah memadai untuk mendukung upaya pencegahan dan investigasi kejahatan siber yang terjadi melalui media sosial.,2,Sangat Tidak Setuju
+Q59,Kerangka hukum di Indonesia sudah memadai untuk mendukung upaya pencegahan dan investigasi kejahatan siber yang terjadi melalui media sosial.,3,Setuju
+Q59,Kerangka hukum di Indonesia sudah memadai untuk mendukung upaya pencegahan dan investigasi kejahatan siber yang terjadi melalui media sosial.,4,Sangat Setuju
+Q59,Kerangka hukum di Indonesia sudah memadai untuk mendukung upaya pencegahan dan investigasi kejahatan siber yang terjadi melalui media sosial.,5,Netral
+Q60,"Koordinasi keamanan siber antar-sektor (pemerintah, swasta, akademisi) dalam menangani isu-isu di media sosial Indonesia saat ini sudah berjalan secara efektif.",1,Tidak Setuju
+Q60,"Koordinasi keamanan siber antar-sektor (pemerintah, swasta, akademisi) dalam menangani isu-isu di media sosial Indonesia saat ini sudah berjalan secara efektif.",2,Sangat Tidak Setuju
+Q60,"Koordinasi keamanan siber antar-sektor (pemerintah, swasta, akademisi) dalam menangani isu-isu di media sosial Indonesia saat ini sudah berjalan secara efektif.",3,Setuju
+Q60,"Koordinasi keamanan siber antar-sektor (pemerintah, swasta, akademisi) dalam menangani isu-isu di media sosial Indonesia saat ini sudah berjalan secara efektif.",4,Sangat Setuju
+Q60,"Koordinasi keamanan siber antar-sektor (pemerintah, swasta, akademisi) dalam menangani isu-isu di media sosial Indonesia saat ini sudah berjalan secara efektif.",5,Netral
+Q61,Peraturan di Indonesia saat ini sudah efektif dalam mencegah dan menindak penyalahgunaan data pengguna media sosial untuk kepentingan politik.,1,Tidak Setuju
+Q61,Peraturan di Indonesia saat ini sudah efektif dalam mencegah dan menindak penyalahgunaan data pengguna media sosial untuk kepentingan politik.,2,Sangat Tidak Setuju
+Q61,Peraturan di Indonesia saat ini sudah efektif dalam mencegah dan menindak penyalahgunaan data pengguna media sosial untuk kepentingan politik.,3,Setuju
+Q61,Peraturan di Indonesia saat ini sudah efektif dalam mencegah dan menindak penyalahgunaan data pengguna media sosial untuk kepentingan politik.,4,Sangat Setuju
+Q61,Peraturan di Indonesia saat ini sudah efektif dalam mencegah dan menindak penyalahgunaan data pengguna media sosial untuk kepentingan politik.,5,Netral
+Q62,Mekanisme verifikasi usia di platform media sosial Indonesia saat ini sudah andal dalam mencegah akses anak-anak terhadap konten dewasa.,1,Tidak Setuju
+Q62,Mekanisme verifikasi usia di platform media sosial Indonesia saat ini sudah andal dalam mencegah akses anak-anak terhadap konten dewasa.,2,Sangat Tidak Setuju
+Q62,Mekanisme verifikasi usia di platform media sosial Indonesia saat ini sudah andal dalam mencegah akses anak-anak terhadap konten dewasa.,3,Setuju
+Q62,Mekanisme verifikasi usia di platform media sosial Indonesia saat ini sudah andal dalam mencegah akses anak-anak terhadap konten dewasa.,4,Sangat Setuju
+Q62,Mekanisme verifikasi usia di platform media sosial Indonesia saat ini sudah andal dalam mencegah akses anak-anak terhadap konten dewasa.,5,Netral
+Q63,Pengguna media sosial di Indonesia saat ini sudah memiliki kontrol penuh dan efektif terhadap data pribadi yang mereka bagikan.,1,Netral
+Q63,Pengguna media sosial di Indonesia saat ini sudah memiliki kontrol penuh dan efektif terhadap data pribadi yang mereka bagikan.,2,Sangat Tidak Setuju
+Q63,Pengguna media sosial di Indonesia saat ini sudah memiliki kontrol penuh dan efektif terhadap data pribadi yang mereka bagikan.,3,Setuju
+Q63,Pengguna media sosial di Indonesia saat ini sudah memiliki kontrol penuh dan efektif terhadap data pribadi yang mereka bagikan.,4,Sangat Setuju
+Q63,Pengguna media sosial di Indonesia saat ini sudah memiliki kontrol penuh dan efektif terhadap data pribadi yang mereka bagikan.,5,Tidak Setuju
+Q64,Mekanisme pelaporan dan pencegahan profil palsu (impersonation) di platform media sosial Indonesia saat ini sudah berjalan secara efektif.,1,Netral
+Q64,Mekanisme pelaporan dan pencegahan profil palsu (impersonation) di platform media sosial Indonesia saat ini sudah berjalan secara efektif.,2,Sangat Tidak Setuju
+Q64,Mekanisme pelaporan dan pencegahan profil palsu (impersonation) di platform media sosial Indonesia saat ini sudah berjalan secara efektif.,3,Setuju
+Q64,Mekanisme pelaporan dan pencegahan profil palsu (impersonation) di platform media sosial Indonesia saat ini sudah berjalan secara efektif.,4,Sangat Setuju
+Q64,Mekanisme pelaporan dan pencegahan profil palsu (impersonation) di platform media sosial Indonesia saat ini sudah berjalan secara efektif.,5,Tidak Setuju
+Q65,Sistem perlindungan data personal dan finansial di platform media sosial Indonesia saat ini sudah transparan dan mampu meyakinkan pengguna akan keamanannya.,1,Netral
+Q65,Sistem perlindungan data personal dan finansial di platform media sosial Indonesia saat ini sudah transparan dan mampu meyakinkan pengguna akan keamanannya.,2,Sangat Tidak Setuju
+Q65,Sistem perlindungan data personal dan finansial di platform media sosial Indonesia saat ini sudah transparan dan mampu meyakinkan pengguna akan keamanannya.,3,Setuju
+Q65,Sistem perlindungan data personal dan finansial di platform media sosial Indonesia saat ini sudah transparan dan mampu meyakinkan pengguna akan keamanannya.,4,Sangat Setuju
+Q65,Sistem perlindungan data personal dan finansial di platform media sosial Indonesia saat ini sudah transparan dan mampu meyakinkan pengguna akan keamanannya.,5,Tidak Setuju
+Q66,Penggunaan sertifikat digital dan protokol keamanan untuk melindungi data pengguna sudah menjadi standar umum yang diterapkan oleh platform media sosial di Indonesia.,1,Netral
+Q66,Penggunaan sertifikat digital dan protokol keamanan untuk melindungi data pengguna sudah menjadi standar umum yang diterapkan oleh platform media sosial di Indonesia.,2,Sangat Tidak Setuju
+Q66,Penggunaan sertifikat digital dan protokol keamanan untuk melindungi data pengguna sudah menjadi standar umum yang diterapkan oleh platform media sosial di Indonesia.,3,Setuju
+Q66,Penggunaan sertifikat digital dan protokol keamanan untuk melindungi data pengguna sudah menjadi standar umum yang diterapkan oleh platform media sosial di Indonesia.,4,Sangat Setuju
+Q66,Penggunaan sertifikat digital dan protokol keamanan untuk melindungi data pengguna sudah menjadi standar umum yang diterapkan oleh platform media sosial di Indonesia.,5,Tidak Setuju
+Q67,Platform media sosial di Indonesia saat ini telah memiliki standar yang efektif untuk membatasi akses bagi individu dengan rekam jejak kriminal.,1,Netral
+Q67,Platform media sosial di Indonesia saat ini telah memiliki standar yang efektif untuk membatasi akses bagi individu dengan rekam jejak kriminal.,2,Sangat Tidak Setuju
+Q67,Platform media sosial di Indonesia saat ini telah memiliki standar yang efektif untuk membatasi akses bagi individu dengan rekam jejak kriminal.,3,Setuju
+Q67,Platform media sosial di Indonesia saat ini telah memiliki standar yang efektif untuk membatasi akses bagi individu dengan rekam jejak kriminal.,4,Sangat Setuju
+Q67,Platform media sosial di Indonesia saat ini telah memiliki standar yang efektif untuk membatasi akses bagi individu dengan rekam jejak kriminal.,5,Tidak Setuju
+Q68,Proses verifikasi data pengguna saat pembuatan akun di platform media sosial Indonesia sudah efektif untuk mencegah pembuatan akun palsu.,1,Tidak Setuju
+Q68,Proses verifikasi data pengguna saat pembuatan akun di platform media sosial Indonesia sudah efektif untuk mencegah pembuatan akun palsu.,2,Sangat Tidak Setuju
+Q68,Proses verifikasi data pengguna saat pembuatan akun di platform media sosial Indonesia sudah efektif untuk mencegah pembuatan akun palsu.,3,Setuju
+Q68,Proses verifikasi data pengguna saat pembuatan akun di platform media sosial Indonesia sudah efektif untuk mencegah pembuatan akun palsu.,4,Sangat Setuju
+Q68,Proses verifikasi data pengguna saat pembuatan akun di platform media sosial Indonesia sudah efektif untuk mencegah pembuatan akun palsu.,5,Netral
+Q69,Platform media sosial di Indonesia telah menyediakan mekanisme yang memadai untuk membantu pihak berwenang dalam melacak profil yang diduga terlibat aktivitas kriminal.,1,Tidak Setuju
+Q69,Platform media sosial di Indonesia telah menyediakan mekanisme yang memadai untuk membantu pihak berwenang dalam melacak profil yang diduga terlibat aktivitas kriminal.,2,Sangat Tidak Setuju
+Q69,Platform media sosial di Indonesia telah menyediakan mekanisme yang memadai untuk membantu pihak berwenang dalam melacak profil yang diduga terlibat aktivitas kriminal.,3,Setuju
+Q69,Platform media sosial di Indonesia telah menyediakan mekanisme yang memadai untuk membantu pihak berwenang dalam melacak profil yang diduga terlibat aktivitas kriminal.,4,Sangat Setuju
+Q69,Platform media sosial di Indonesia telah menyediakan mekanisme yang memadai untuk membantu pihak berwenang dalam melacak profil yang diduga terlibat aktivitas kriminal.,5,Netral
+Q70,Sejauh mana Anda proaktif mencari info kerentanan keamanan pada aplikasi media sosial yang Anda gunakan dan segera melakukan pembaruan (update)?,1,Sering
+Q70,Sejauh mana Anda proaktif mencari info kerentanan keamanan pada aplikasi media sosial yang Anda gunakan dan segera melakukan pembaruan (update)?,2,Kadang-Kadang
+Q70,Sejauh mana Anda proaktif mencari info kerentanan keamanan pada aplikasi media sosial yang Anda gunakan dan segera melakukan pembaruan (update)?,3,Selalu
+Q70,Sejauh mana Anda proaktif mencari info kerentanan keamanan pada aplikasi media sosial yang Anda gunakan dan segera melakukan pembaruan (update)?,4,Jarang
+Q70,Sejauh mana Anda proaktif mencari info kerentanan keamanan pada aplikasi media sosial yang Anda gunakan dan segera melakukan pembaruan (update)?,5,Tidak pernah
+Q71,"Sejauh mana Anda memastikan selalu menggunakan koneksi aman (ditandai ""https"" atau ikon gembok) saat mengakses media sosial selama menggunakan browser?",1,Sering
+Q71,"Sejauh mana Anda memastikan selalu menggunakan koneksi aman (ditandai ""https"" atau ikon gembok) saat mengakses media sosial selama menggunakan browser?",2,Selalu
+Q71,"Sejauh mana Anda memastikan selalu menggunakan koneksi aman (ditandai ""https"" atau ikon gembok) saat mengakses media sosial selama menggunakan browser?",3,Kadang-Kadang
+Q71,"Sejauh mana Anda memastikan selalu menggunakan koneksi aman (ditandai ""https"" atau ikon gembok) saat mengakses media sosial selama menggunakan browser?",4,Jarang
+Q71,"Sejauh mana Anda memastikan selalu menggunakan koneksi aman (ditandai ""https"" atau ikon gembok) saat mengakses media sosial selama menggunakan browser?",5,Tidak pernah
+Q72,"Sejauh mana Anda secara rutin memantau aktivitas akun media sosial Anda (misalnya, riwayat login, aplikasi terhubung) untuk mendeteksi hal yang mencurigakan?",1,Kadang-Kadang
+Q72,"Sejauh mana Anda secara rutin memantau aktivitas akun media sosial Anda (misalnya, riwayat login, aplikasi terhubung) untuk mendeteksi hal yang mencurigakan?",2,Selalu
+Q72,"Sejauh mana Anda secara rutin memantau aktivitas akun media sosial Anda (misalnya, riwayat login, aplikasi terhubung) untuk mendeteksi hal yang mencurigakan?",3,Sering
+Q72,"Sejauh mana Anda secara rutin memantau aktivitas akun media sosial Anda (misalnya, riwayat login, aplikasi terhubung) untuk mendeteksi hal yang mencurigakan?",4,Jarang
+Q72,"Sejauh mana Anda secara rutin memantau aktivitas akun media sosial Anda (misalnya, riwayat login, aplikasi terhubung) untuk mendeteksi hal yang mencurigakan?",5,Tidak pernah
+Q73,Sejauh mana Anda secara sadar meninjau ulang dan menyesuaikan pengaturan keamanan dan privasi di akun media sosial Anda setiap kali ada perubahan?,1,Kadang-Kadang
+Q73,Sejauh mana Anda secara sadar meninjau ulang dan menyesuaikan pengaturan keamanan dan privasi di akun media sosial Anda setiap kali ada perubahan?,2,Selalu
+Q73,Sejauh mana Anda secara sadar meninjau ulang dan menyesuaikan pengaturan keamanan dan privasi di akun media sosial Anda setiap kali ada perubahan?,3,Sering
+Q73,Sejauh mana Anda secara sadar meninjau ulang dan menyesuaikan pengaturan keamanan dan privasi di akun media sosial Anda setiap kali ada perubahan?,4,Jarang
+Q73,Sejauh mana Anda secara sadar meninjau ulang dan menyesuaikan pengaturan keamanan dan privasi di akun media sosial Anda setiap kali ada perubahan?,5,Tidak pernah
+Q74,Sejauh mana Anda meninjau dan mengelola izin untuk aplikasi pihak ketiga yang terhubung dengan akun media sosial Anda?,1,Kadang-Kadang
+Q74,Sejauh mana Anda meninjau dan mengelola izin untuk aplikasi pihak ketiga yang terhubung dengan akun media sosial Anda?,2,Selalu
+Q74,Sejauh mana Anda meninjau dan mengelola izin untuk aplikasi pihak ketiga yang terhubung dengan akun media sosial Anda?,3,Sering
+Q74,Sejauh mana Anda meninjau dan mengelola izin untuk aplikasi pihak ketiga yang terhubung dengan akun media sosial Anda?,4,Tidak pernah
+Q74,Sejauh mana Anda meninjau dan mengelola izin untuk aplikasi pihak ketiga yang terhubung dengan akun media sosial Anda?,5,Jarang
+Q75,"Sejauh mana Anda berhati-hati dalam memilih jaringan internet (misalnya, menghindari Wi-Fi publik yang tidak aman) saat akan mengakses media sosial?",1,Kadang-Kadang
+Q75,"Sejauh mana Anda berhati-hati dalam memilih jaringan internet (misalnya, menghindari Wi-Fi publik yang tidak aman) saat akan mengakses media sosial?",2,Sering
+Q75,"Sejauh mana Anda berhati-hati dalam memilih jaringan internet (misalnya, menghindari Wi-Fi publik yang tidak aman) saat akan mengakses media sosial?",3,Jarang
+Q75,"Sejauh mana Anda berhati-hati dalam memilih jaringan internet (misalnya, menghindari Wi-Fi publik yang tidak aman) saat akan mengakses media sosial?",4,Selalu
+Q75,"Sejauh mana Anda berhati-hati dalam memilih jaringan internet (misalnya, menghindari Wi-Fi publik yang tidak aman) saat akan mengakses media sosial?",5,Tidak pernah
+Q76,Sejauh mana Anda menetapkan dan mengikuti aturan pribadi untuk diri sendiri mengenai apa yang boleh dan tidak boleh dibagikan di media sosial?,1,Kadang-Kadang
+Q76,Sejauh mana Anda menetapkan dan mengikuti aturan pribadi untuk diri sendiri mengenai apa yang boleh dan tidak boleh dibagikan di media sosial?,2,Selalu
+Q76,Sejauh mana Anda menetapkan dan mengikuti aturan pribadi untuk diri sendiri mengenai apa yang boleh dan tidak boleh dibagikan di media sosial?,3,Sering
+Q76,Sejauh mana Anda menetapkan dan mengikuti aturan pribadi untuk diri sendiri mengenai apa yang boleh dan tidak boleh dibagikan di media sosial?,4,Jarang
+Q76,Sejauh mana Anda menetapkan dan mengikuti aturan pribadi untuk diri sendiri mengenai apa yang boleh dan tidak boleh dibagikan di media sosial?,5,Tidak pernah
+Q77,Sejauh mana Anda secara aktif mencari informasi atau edukasi untuk meningkatkan kesadaran Anda terhadap ancaman siber terbaru di media sosial?,1,Kadang-Kadang
+Q77,Sejauh mana Anda secara aktif mencari informasi atau edukasi untuk meningkatkan kesadaran Anda terhadap ancaman siber terbaru di media sosial?,2,Sering
+Q77,Sejauh mana Anda secara aktif mencari informasi atau edukasi untuk meningkatkan kesadaran Anda terhadap ancaman siber terbaru di media sosial?,3,Selalu
+Q77,Sejauh mana Anda secara aktif mencari informasi atau edukasi untuk meningkatkan kesadaran Anda terhadap ancaman siber terbaru di media sosial?,4,Jarang
+Q77,Sejauh mana Anda secara aktif mencari informasi atau edukasi untuk meningkatkan kesadaran Anda terhadap ancaman siber terbaru di media sosial?,5,Tidak pernah
+Q78,"Sejauh mana Anda menerapkan praktik kontrol akses yang ketat, seperti tidak pernah membagikan kata sandi Anda kepada siapa pun?",1,Kadang-Kadang
+Q78,"Sejauh mana Anda menerapkan praktik kontrol akses yang ketat, seperti tidak pernah membagikan kata sandi Anda kepada siapa pun?",2,Selalu
+Q78,"Sejauh mana Anda menerapkan praktik kontrol akses yang ketat, seperti tidak pernah membagikan kata sandi Anda kepada siapa pun?",3,Sering
+Q78,"Sejauh mana Anda menerapkan praktik kontrol akses yang ketat, seperti tidak pernah membagikan kata sandi Anda kepada siapa pun?",4,Jarang
+Q78,"Sejauh mana Anda menerapkan praktik kontrol akses yang ketat, seperti tidak pernah membagikan kata sandi Anda kepada siapa pun?",5,Tidak pernah
+Q79,Sejauh mana Anda berusaha memahami atau mencari aturan dasar dalam undang-undang (seperti UU ITE) yang berkaitan dengan perilaku di media sosial?,1,Kadang-Kadang
+Q79,Sejauh mana Anda berusaha memahami atau mencari aturan dasar dalam undang-undang (seperti UU ITE) yang berkaitan dengan perilaku di media sosial?,2,Sering
+Q79,Sejauh mana Anda berusaha memahami atau mencari aturan dasar dalam undang-undang (seperti UU ITE) yang berkaitan dengan perilaku di media sosial?,3,Selalu
+Q79,Sejauh mana Anda berusaha memahami atau mencari aturan dasar dalam undang-undang (seperti UU ITE) yang berkaitan dengan perilaku di media sosial?,4,Jarang
+Q79,Sejauh mana Anda berusaha memahami atau mencari aturan dasar dalam undang-undang (seperti UU ITE) yang berkaitan dengan perilaku di media sosial?,5,Tidak pernah
+Q80,Sejauh mana Anda menganggap dan mengelola profil media sosial Anda sebagai aset digital pribadi yang penting dan perlu dilindungi?,1,Cukup Peduli
+Q80,Sejauh mana Anda menganggap dan mengelola profil media sosial Anda sebagai aset digital pribadi yang penting dan perlu dilindungi?,2,Sangat Peduli
+Q80,Sejauh mana Anda menganggap dan mengelola profil media sosial Anda sebagai aset digital pribadi yang penting dan perlu dilindungi?,3,Peduli
+Q80,Sejauh mana Anda menganggap dan mengelola profil media sosial Anda sebagai aset digital pribadi yang penting dan perlu dilindungi?,4,Tidak Terlalu Peduli
+Q80,Sejauh mana Anda menganggap dan mengelola profil media sosial Anda sebagai aset digital pribadi yang penting dan perlu dilindungi?,5,Sangat Tidak Peduli
+Q81,"Sejauh mana Anda memastikan perangkat pribadi (ponsel, laptop, tablet, dll) yang digunakan untuk mengakses media sosial telah terpasang pelindung dari malware?",1,Jarang Memastikan
+Q81,"Sejauh mana Anda memastikan perangkat pribadi (ponsel, laptop, tablet, dll) yang digunakan untuk mengakses media sosial telah terpasang pelindung dari malware?",2,Sangat/Selalu Memastikan
+Q81,"Sejauh mana Anda memastikan perangkat pribadi (ponsel, laptop, tablet, dll) yang digunakan untuk mengakses media sosial telah terpasang pelindung dari malware?",3,Sering Memastikan
+Q81,"Sejauh mana Anda memastikan perangkat pribadi (ponsel, laptop, tablet, dll) yang digunakan untuk mengakses media sosial telah terpasang pelindung dari malware?",4,Kadang Memastikan
+Q81,"Sejauh mana Anda memastikan perangkat pribadi (ponsel, laptop, tablet, dll) yang digunakan untuk mengakses media sosial telah terpasang pelindung dari malware?",5,Sangat Tidak Memastikan
+Q82,"Sejauh mana Anda secara aktif meninjau dan menerapkan pengaturan privasi yang paling ketat (misalnya, siapa yang bisa melihat postingan Anda) pada akun media sosial Anda?",1,Kadang-Kadang
+Q82,"Sejauh mana Anda secara aktif meninjau dan menerapkan pengaturan privasi yang paling ketat (misalnya, siapa yang bisa melihat postingan Anda) pada akun media sosial Anda?",2,Selalu
+Q82,"Sejauh mana Anda secara aktif meninjau dan menerapkan pengaturan privasi yang paling ketat (misalnya, siapa yang bisa melihat postingan Anda) pada akun media sosial Anda?",3,Sering
+Q82,"Sejauh mana Anda secara aktif meninjau dan menerapkan pengaturan privasi yang paling ketat (misalnya, siapa yang bisa melihat postingan Anda) pada akun media sosial Anda?",4,Jarang
+Q82,"Sejauh mana Anda secara aktif meninjau dan menerapkan pengaturan privasi yang paling ketat (misalnya, siapa yang bisa melihat postingan Anda) pada akun media sosial Anda?",5,Tidak Pernah
+Q83,Sejauh mana Anda berhati-hati dan memeriksa keamanan aplikasi lain seperti game online sebelum menghubungkannya dengan akun media sosial Anda?,1,Kadang-Kadang
+Q83,Sejauh mana Anda berhati-hati dan memeriksa keamanan aplikasi lain seperti game online sebelum menghubungkannya dengan akun media sosial Anda?,2,Selalu
+Q83,Sejauh mana Anda berhati-hati dan memeriksa keamanan aplikasi lain seperti game online sebelum menghubungkannya dengan akun media sosial Anda?,3,Sering
+Q83,Sejauh mana Anda berhati-hati dan memeriksa keamanan aplikasi lain seperti game online sebelum menghubungkannya dengan akun media sosial Anda?,4,Jarang
+Q83,Sejauh mana Anda berhati-hati dan memeriksa keamanan aplikasi lain seperti game online sebelum menghubungkannya dengan akun media sosial Anda?,5,Tidak Pernah
+Q84,"Sejauh mana Anda telah menyiapkan langkah-langkah pemulihan (misalnya, email atau nomor telepon pemulihan) agar dapat menguasai kembali akun media sosial Anda jika diretas?",1,Kadang-Kadang
+Q84,"Sejauh mana Anda telah menyiapkan langkah-langkah pemulihan (misalnya, email atau nomor telepon pemulihan) agar dapat menguasai kembali akun media sosial Anda jika diretas?",2,Selalu
+Q84,"Sejauh mana Anda telah menyiapkan langkah-langkah pemulihan (misalnya, email atau nomor telepon pemulihan) agar dapat menguasai kembali akun media sosial Anda jika diretas?",3,Sering
+Q84,"Sejauh mana Anda telah menyiapkan langkah-langkah pemulihan (misalnya, email atau nomor telepon pemulihan) agar dapat menguasai kembali akun media sosial Anda jika diretas?",4,Jarang
+Q84,"Sejauh mana Anda telah menyiapkan langkah-langkah pemulihan (misalnya, email atau nomor telepon pemulihan) agar dapat menguasai kembali akun media sosial Anda jika diretas?",5,Tidak Pernah
+Q85,"Sejauh mana Anda mengetahui langkah-langkah yang harus diambil jika terjadi insiden keamanan pada akun media sosial Anda (misalnya, segera mengganti password atau penggunaan OTP)?",1,Cukup Tahu
+Q85,"Sejauh mana Anda mengetahui langkah-langkah yang harus diambil jika terjadi insiden keamanan pada akun media sosial Anda (misalnya, segera mengganti password atau penggunaan OTP)?",2,Sangat Tahu / Sangat Memahami Langkah-Langkah yang Tepat
+Q85,"Sejauh mana Anda mengetahui langkah-langkah yang harus diambil jika terjadi insiden keamanan pada akun media sosial Anda (misalnya, segera mengganti password atau penggunaan OTP)?",3,Kurang Tahu
+Q85,"Sejauh mana Anda mengetahui langkah-langkah yang harus diambil jika terjadi insiden keamanan pada akun media sosial Anda (misalnya, segera mengganti password atau penggunaan OTP)?",4,Tahu
+Q85,"Sejauh mana Anda mengetahui langkah-langkah yang harus diambil jika terjadi insiden keamanan pada akun media sosial Anda (misalnya, segera mengganti password atau penggunaan OTP)?",5,Sangat Tidak Tahu / Tidak Mengetahui Sama Sekali
+Q86,"Sejauh mana Anda menerapkan praktik keamanan dasar (misalnya, kunci layar, tidak melakukan root/jailbreak) pada semua perangkat pribadi Anda yang digunakan untuk mengakses media sosial?",1,Jarang
+Q86,"Sejauh mana Anda menerapkan praktik keamanan dasar (misalnya, kunci layar, tidak melakukan root/jailbreak) pada semua perangkat pribadi Anda yang digunakan untuk mengakses media sosial?",2,Selalu
+Q86,"Sejauh mana Anda menerapkan praktik keamanan dasar (misalnya, kunci layar, tidak melakukan root/jailbreak) pada semua perangkat pribadi Anda yang digunakan untuk mengakses media sosial?",3,Kadang-Kadang
+Q86,"Sejauh mana Anda menerapkan praktik keamanan dasar (misalnya, kunci layar, tidak melakukan root/jailbreak) pada semua perangkat pribadi Anda yang digunakan untuk mengakses media sosial?",4,Sering
+Q86,"Sejauh mana Anda menerapkan praktik keamanan dasar (misalnya, kunci layar, tidak melakukan root/jailbreak) pada semua perangkat pribadi Anda yang digunakan untuk mengakses media sosial?",5,Tidak Pernah
+Q87,Kebijakan keamanan siber yang ada di Indonesia saat ini sudah menjadi acuan yang jelas untuk pelaksanaan analisis kerentanan (vulnerability analyses) secara berkala.,1,Sangat Tidak Setuju
+Q87,Kebijakan keamanan siber yang ada di Indonesia saat ini sudah menjadi acuan yang jelas untuk pelaksanaan analisis kerentanan (vulnerability analyses) secara berkala.,2,Setuju
+Q87,Kebijakan keamanan siber yang ada di Indonesia saat ini sudah menjadi acuan yang jelas untuk pelaksanaan analisis kerentanan (vulnerability analyses) secara berkala.,3,Sangat Setuju
+Q87,Kebijakan keamanan siber yang ada di Indonesia saat ini sudah menjadi acuan yang jelas untuk pelaksanaan analisis kerentanan (vulnerability analyses) secara berkala.,4,Tidak Setuju
+Q87,Kebijakan keamanan siber yang ada di Indonesia saat ini sudah menjadi acuan yang jelas untuk pelaksanaan analisis kerentanan (vulnerability analyses) secara berkala.,5,Netral
+Q88,Pengguna media sosial di Indonesia sudah memiliki kebiasaan untuk mengecek fakta atau memverifikasi kebenaran berita kepada sumber luar yang kredibel sebelum menyebarkannya.,1,Sangat Tidak Setuju
+Q88,Pengguna media sosial di Indonesia sudah memiliki kebiasaan untuk mengecek fakta atau memverifikasi kebenaran berita kepada sumber luar yang kredibel sebelum menyebarkannya.,2,Setuju
+Q88,Pengguna media sosial di Indonesia sudah memiliki kebiasaan untuk mengecek fakta atau memverifikasi kebenaran berita kepada sumber luar yang kredibel sebelum menyebarkannya.,3,Sangat Setuju
+Q88,Pengguna media sosial di Indonesia sudah memiliki kebiasaan untuk mengecek fakta atau memverifikasi kebenaran berita kepada sumber luar yang kredibel sebelum menyebarkannya.,4,Tidak Setuju
+Q88,Pengguna media sosial di Indonesia sudah memiliki kebiasaan untuk mengecek fakta atau memverifikasi kebenaran berita kepada sumber luar yang kredibel sebelum menyebarkannya.,5,Netral
+Q89,Platform media sosial di Indonesia saat ini sudah menyertakan fitur pendeteksi berita bohong (fake news detector) otomatis yang tertanam dalam sistem mereka untuk memantau dan mendeteksi kabar palsu.,1,Sangat Tidak Setuju
+Q89,Platform media sosial di Indonesia saat ini sudah menyertakan fitur pendeteksi berita bohong (fake news detector) otomatis yang tertanam dalam sistem mereka untuk memantau dan mendeteksi kabar palsu.,2,Setuju
+Q89,Platform media sosial di Indonesia saat ini sudah menyertakan fitur pendeteksi berita bohong (fake news detector) otomatis yang tertanam dalam sistem mereka untuk memantau dan mendeteksi kabar palsu.,3,Sangat Setuju
+Q89,Platform media sosial di Indonesia saat ini sudah menyertakan fitur pendeteksi berita bohong (fake news detector) otomatis yang tertanam dalam sistem mereka untuk memantau dan mendeteksi kabar palsu.,4,Tidak Setuju
+Q89,Platform media sosial di Indonesia saat ini sudah menyertakan fitur pendeteksi berita bohong (fake news detector) otomatis yang tertanam dalam sistem mereka untuk memantau dan mendeteksi kabar palsu.,5,Netral
+Q90,Penghasilan/uang saku per bulan,1,3.000.000-5.000.000
+Q90,Penghasilan/uang saku per bulan,2,500.000-1.500.000
+Q90,Penghasilan/uang saku per bulan,3,1.500.000-3.000.000
+Q90,Penghasilan/uang saku per bulan,4,Di bawah 500.000
+Q90,Penghasilan/uang saku per bulan,5,5.000.000-10.000.000
+Q90,Penghasilan/uang saku per bulan,6,di atas 10.000.000
