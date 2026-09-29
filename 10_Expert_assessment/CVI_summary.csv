@@ -1,0 +1,22 @@
+﻿Metric,Value
+Total_responses,7
+Valid_experts,4
+Excluded_responses,3
+Number_of_items,43
+I_CVI_min,1.0
+I_CVI_max,1.0
+I_CVI_mean,1.0
+S_CVI_Ave,1.0
+S_CVI_UA,1.0
+Modified_Kappa_min,1.0
+Modified_Kappa_max,1.0
+D_i_min,0
+D_i_max,2
+Items_D_i_0,26
+Items_D_i_1,14
+Items_D_i_ge_2,3
+Additional_review_items,"3, 6, 14"
+Ratings_4,152
+Ratings_3,20
+Ratings_2,0
+Ratings_1,0
